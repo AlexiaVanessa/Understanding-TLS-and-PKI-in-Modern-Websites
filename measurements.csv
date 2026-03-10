@@ -1,0 +1,1001 @@
+domain,reachable,tls_versions,preferred_cipher,cert_subject_cn,cert_issuer,sig_alg,key_type,key_size,valid_from,valid_to,validity_days,ocsp_stapling,errors
+dbankcdn.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+gname-dns.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+yellowblue.io,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+bappam.org,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+tencent-cloud.net,FALSE,,,,,,,,,,,,[Errno 11004] getaddrinfo failed
+racingpost.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+mawartotoajax.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+xhamster3.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+darknessporn.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+gstcpx.site,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+zimperium.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,30264f21.sni.cloudflaressl.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/2/2025,12/31/2025,90,unknown,
+truoptik.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,truoptik.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/7/2025,2/5/2026,90,unknown,
+gcprivacy.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,gcprivacy.com,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,5/31/2025,6/29/2026,394,unknown,
+familysearch.org,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.familysearch.org,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,5/23/2025,6/23/2026,396,unknown,
+openwebtorrent.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,openwebtorrent.com,R12,sha256WithRSAEncryption,RSA,2048,10/29/2025,1/27/2026,90,unknown,
+swapfone.org,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,dreamlandwaterdrillers.co.ke,WR3,sha256WithRSAEncryption,RSA,2048,11/10/2025,2/8/2026,90,unknown,
+peers.tv,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,peers.tv,R12,sha256WithRSAEncryption,RSA,4096,9/21/2025,12/20/2025,90,unknown,
+optable.co,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,optable.co,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/29/2025,12/28/2025,90,unknown,
+amazon.cn,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,www.amazon.cn,DigiCert Global CA G2,sha256WithRSAEncryption,RSA,2048,7/3/2025,7/1/2026,363,unknown,
+deutsche-bank.de,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.deutsche-bank.de,DigiCert EV RSA CA G2,sha256WithRSAEncryption,RSA,2048,7/10/2025,4/29/2026,293,unknown,
+swiggy.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,swiggy.in,Amazon RSA 2048 M01,sha256WithRSAEncryption,RSA,2048,10/13/2025,11/11/2026,394,unknown,
+jpmchase.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,specialredirect.chase.com,DigiCert EV RSA CA G2,sha256WithRSAEncryption,RSA,2048,3/4/2025,3/3/2026,364,unknown,
+terabox.club,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,*.terabox.club,RapidSSL TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,6/6/2025,7/7/2026,396,unknown,
+1xprobet-in.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+fpdf.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,fpdf.org,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/4/2025,1/2/2026,90,unknown,
+crazydomains.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,crazydomains.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/12/2025,1/10/2026,90,unknown,
+natura.com.br,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.natura.net,Amazon RSA 2048 M01,sha256WithRSAEncryption,RSA,2048,9/18/2025,10/17/2026,394,unknown,
+fanatical.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.fanatical.com,Starfield Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,5/22/2025,6/23/2026,397,unknown,
+fitforfun.de,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,fitforfun.de,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/6/2025,2/4/2026,90,unknown,
+slicelife.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,slicelife.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/29/2025,1/27/2026,90,unknown,
+kuronavi.blog,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,kuronavi.blog,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/17/2025,2/15/2026,90,unknown,
+travelapi.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+letour.fr,TRUE,TLSv1.2,ECDHE-ECDSA-AES128-GCM-SHA256,letour.fr,E7,ecdsa-with-SHA384,ECDSA,secp256r1,11/20/2025,2/18/2026,90,unknown,
+digidip.net,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.digidip.net,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,3/13/2025,4/12/2026,395,unknown,
+acloud.guru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,acloud.guru,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/13/2025,2/11/2026,90,unknown,
+gq.com.mx,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,condenastinternational.com,GlobalSign Atlas R3 DV TLS CA 2025 Q4,sha256WithRSAEncryption,RSA,2048,11/19/2025,12/21/2026,397,unknown,
+swansonvitamins.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,swansonvitamins.com,R12,sha256WithRSAEncryption,RSA,2048,11/8/2025,2/6/2026,90,unknown,
+rmi.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,rmi.org,R13,sha256WithRSAEncryption,RSA,2048,10/18/2025,1/16/2026,90,unknown,
+tech.blog,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tls.automattic.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/13/2025,2/11/2026,90,unknown,
+nitter.net,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+vipxdns.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+iai-system.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.iai-system.com,Certum Domain Validation CA SHA2,sha256WithRSAEncryption,RSA,4096,3/4/2025,3/4/2026,365,unknown,
+mediasmart.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mediasmart.io,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/10/2025,1/8/2026,90,unknown,
+riachuelo.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,riachuelo.com.br,DigiCert Global G3 TLS ECC SHA384 2020 CA1,ecdsa-with-SHA384,ECDSA,secp256r1,8/8/2025,8/8/2026,365,unknown,
+mailplus.co.uk,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,mailplus.co.uk,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,7/24/2025,8/21/2026,393,unknown,
+letsignit.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,letsignit.com,R13,sha256WithRSAEncryption,RSA,2048,10/11/2025,1/9/2026,90,unknown,
+sysct.cz,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+bridgew.edu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.bridgew.edu,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,6/26/2025,4/14/2026,292,unknown,
+taxes.gov.il,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+cnycentral.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,cnycentral.com,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,1/22/2025,2/21/2026,395,unknown,
+zgkxchijue.xyz,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+merkle.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,merkle.io,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/27/2025,1/25/2026,90,unknown,
+betterhelp.co.il,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,betterhelp.com,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,1/23/2025,2/21/2026,394,unknown,
+lattice.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,lattice.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,9/29/2025,12/28/2025,90,unknown,
+pixelbin.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pixelbin.io,WR3,sha256WithRSAEncryption,RSA,2048,9/25/2025,12/24/2025,90,unknown,
+tonkosti.ru,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.tonkosti.ru,GlobalSign RSA OV SSL CA 2018,sha256WithRSAEncryption,RSA,2048,7/31/2025,9/1/2026,397,unknown,
+xxxvideo.sex,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+unilim.fr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.unilim.fr,R13,sha256WithRSAEncryption,RSA,2048,11/17/2025,2/15/2026,90,unknown,
+snipes.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,snipes.com,GandiCert,sha256WithRSAEncryption,ECDSA,secp256r1,5/19/2025,5/19/2026,365,unknown,
+bookofra-slot.fr,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+azure-dns-3.cn,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+virtualtourist.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,virtualtourist.com,ZeroSSL ECC Domain Secure Site CA,ecdsa-with-SHA384,ECDSA,secp256r1,11/10/2025,2/8/2026,90,unknown,
+hellobacsi.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,hellobacsi.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/9/2025,2/7/2026,90,unknown,
+opodo.fr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,opodo.fr,R13,sha256WithRSAEncryption,RSA,2048,10/13/2025,1/11/2026,90,unknown,
+drawdown.org,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,drawdown.org,R13,sha256WithRSAEncryption,RSA,2048,10/6/2025,1/4/2026,90,unknown,
+aaronsw.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+prod-ffs.io,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+67hailhail.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,67hailhail.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/26/2025,1/24/2026,90,unknown,
+akupintar.id,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,akupintar.id,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/23/2025,1/21/2026,90,unknown,
+vkserfing.ru,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,vkserfing.ru,R13,sha256WithRSAEncryption,RSA,2048,10/27/2025,1/25/2026,90,unknown,
+tmdcloud.eu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tmdcloud.eu,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/29/2025,1/27/2026,90,unknown,
+jansamarth.in,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,jansamarth.in,GeoTrust TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,8/14/2025,9/14/2026,396,unknown,
+girlswhocode.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,girlswhocode.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/23/2025,1/21/2026,90,unknown,
+stanstedairport.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,stn.live.mag-dxp.com,Amazon RSA 2048 M01,sha256WithRSAEncryption,RSA,2048,10/7/2025,11/5/2026,394,unknown,
+lidl.hr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,retail.lidl,SwissSign RSA TLS EV ICA 2022 - 1,sha256WithRSAEncryption,RSA,2048,8/22/2025,8/22/2026,365,unknown,
+nowpayments.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,nowpayments.io,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/17/2025,2/15/2026,90,unknown,
+vamosbets.net,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+fireworkanalytics.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,fireworktv.com,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,8/7/2025,9/5/2026,394,unknown,
+freeporncave.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+venezia.pl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,venezia.pl,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/22/2025,2/20/2026,90,unknown,
+carrier.io,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,carrier.io,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,1/7/2025,2/5/2026,394,unknown,
+notabul.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,notabul.com,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,4/6/2025,5/5/2026,394,unknown,
+studylight.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,studylight.org,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/30/2025,12/29/2025,90,unknown,
+holicopterdrives.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.holicopterdrives.com,Amazon RSA 2048 M01,sha256WithRSAEncryption,RSA,2048,9/10/2025,10/9/2026,394,unknown,
+subnet05.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,911pro.ru,R12,sha256WithRSAEncryption,RSA,2048,11/18/2025,2/16/2026,90,unknown,
+provideoshrot.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.provideoshrot.com,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,5/27/2025,6/26/2026,395,unknown,
+phenix-scans.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,phenix-scans.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/12/2025,2/10/2026,90,unknown,
+saint.gr,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,saint.gr,R13,sha256WithRSAEncryption,RSA,2048,10/14/2025,1/12/2026,90,unknown,
+sendibm5.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,sendibm5.com,R13,sha256WithRSAEncryption,RSA,2048,9/24/2025,12/23/2025,90,unknown,
+chiefexecutive.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,chiefexecutive.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/10/2025,1/8/2026,90,unknown,
+tudgiigxgo.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+dyuyo.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+grupouma.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,grupouma.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/16/2025,1/14/2026,90,unknown,
+anime-suba.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,anime-suba.org,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/19/2025,1/17/2026,90,unknown,
+yhdm6.top,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,yhdm6.top,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/26/2025,1/24/2026,90,unknown,
+bankofbaroda.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.Bankofbaroda.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,3/28/2025,2/7/2026,316,unknown,
+asana.plus,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,asana.plus,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,1/4/2025,2/1/2026,393,unknown,
+powerpool.cloud,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+moods.ir,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,moods.ir,R12,sha256WithRSAEncryption,RSA,2048,11/13/2025,2/11/2026,90,unknown,
+zoomcorp.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,zoomcorp.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/23/2025,1/21/2026,90,unknown,
+minecraft-mcworld.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.minecraft-mcworld.com,R12,sha256WithRSAEncryption,RSA,2048,11/13/2025,2/11/2026,90,unknown,
+smcdn.pl,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,webproxy.hostujemy.to,webproxy.hostujemy.to,sha256WithRSAEncryption,RSA,4096,9/15/2020,5/25/2034,5000,unknown,
+worktribe.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.worktribe.com,GeoTrust TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,12/10/2024,1/9/2026,395,unknown,
+capitalautoauction.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,capitalautoauction.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/14/2025,1/12/2026,90,unknown,
+epson-europe.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,imperva.com,GlobalSign Atlas R3 DV TLS CA 2025 Q3,sha256WithRSAEncryption,RSA,2048,9/25/2025,3/24/2026,180,unknown,
+whoyou.cc,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,www.whoyou.cc,Encryption Everywhere DV TLS CA - G2,sha256WithRSAEncryption,RSA,2048,2/25/2025,2/25/2026,365,unknown,
+tracead.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,tracead.com,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,4/4/2025,5/4/2026,395,unknown,
+trdiziizle.vip,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,trdiziizle.vip,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/10/2025,2/8/2026,90,unknown,
+math.ca,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+versace.com,FALSE,,,,,,,,,,,,timed out
+azores.gov.pt,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,azores.gov.pt,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/24/2025,1/22/2026,90,unknown,
+compel.ru,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,www.compel.ru,R13,sha256WithRSAEncryption,RSA,4096,11/8/2025,2/6/2026,90,unknown,
+annatel.co.il,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,annatel.co.il,R12,sha256WithRSAEncryption,RSA,2048,9/30/2025,12/29/2025,90,unknown,
+aaccc.gov.in,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,aaccc.gov.in,R13,sha256WithRSAEncryption,RSA,2048,10/30/2025,1/28/2026,90,unknown,
+pesrp.edu.pk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.pesrp.edu.pk,RapidSSL TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,1/13/2025,1/15/2026,367,unknown,
+audiobooksreview.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,audiobooksreview.com,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,9/24/2025,10/23/2026,394,unknown,
+joy-pepsico.eu,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,joy-pepsico.eu,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,3/24/2025,3/23/2026,364,unknown,
+videolike.xyz,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+host.com.pk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,autodiscover.host.com.pk,R12,sha256WithRSAEncryption,RSA,2048,11/12/2025,2/10/2026,90,unknown,
+de-baystars.jp,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,localhost.localdomain,localhost.localdomain,sha256WithRSAEncryption,RSA,2048,4/17/2020,4/17/2021,365,unknown,
+skandia.se,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.skandia.se,DigiCert Global G3 TLS ECC SHA384 2020 CA1,ecdsa-with-SHA384,ECDSA,secp256r1,7/27/2025,7/28/2026,366,unknown,
+yumping.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,yumping.com,R13,sha256WithRSAEncryption,RSA,2048,9/16/2025,12/15/2025,90,unknown,
+euroset.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.mobile-api.ru,GlobalSign RSA OV SSL CA 2018,sha256WithRSAEncryption,RSA,2048,1/13/2025,2/14/2026,397,unknown,
+stf.jus.br,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.stf.jus.br,GlobalSign GCC R6 AlphaSSL CA 2025,sha256WithRSAEncryption,RSA,2048,9/3/2025,10/5/2026,397,unknown,
+hs-worms.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.hs-worms.de,GEANT OV RSA CA 4,sha384WithRSAEncryption,RSA,4096,12/12/2024,12/12/2025,365,unknown,
+legionisci.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.legionisci.com,R12,sha256WithRSAEncryption,RSA,2048,10/6/2025,1/4/2026,90,unknown,
+booktoki468.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+east.ru,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,east.ru,R12,sha256WithRSAEncryption,RSA,2048,10/13/2025,1/11/2026,90,unknown,
+caster.fm,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,caster.fm,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/12/2025,1/10/2026,90,unknown,
+andara88gate.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+upct.es,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.upct.es,GEANT TLS RSA 1,sha256WithRSAEncryption,RSA,2048,5/15/2025,5/15/2026,365,unknown,
+w4life.online,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,w4life.online,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/1/2025,12/30/2025,90,unknown,
+movbor.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,movbor.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/13/2025,1/11/2026,90,unknown,
+qhsuac.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,qhsuac.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/3/2025,1/1/2026,90,unknown,
+pixolv.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pixolv.com,R12,sha256WithRSAEncryption,RSA,2048,10/10/2025,1/8/2026,90,unknown,
+over.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,over.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/16/2025,1/14/2026,90,unknown,
+simpthots.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+download-hive.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,download-hive.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/30/2025,1/28/2026,90,unknown,
+ceri123w1ns503.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+showgo123.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,showgo123.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/27/2025,12/26/2025,90,unknown,
+ok36518.vip,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,ok36546.vip,Amazon RSA 2048 M01,sha256WithRSAEncryption,RSA,2048,11/18/2025,12/17/2026,394,unknown,
+clp.com.hk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.clp.com.hk,DigiCert Global G3 TLS ECC SHA384 2020 CA1,ecdsa-with-SHA384,ECDSA,secp256r1,6/29/2025,6/30/2026,366,unknown,
+ayk.gov.tr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.ayk.gov.tr,Sectigo Public Server Authentication CA DV R36,sha256WithRSAEncryption,RSA,2048,9/1/2025,9/1/2026,365,unknown,
+towngastelecom.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,towngastelecom.com,Sectigo Public Server Authentication CA EV R36,sha256WithRSAEncryption,RSA,2048,9/11/2025,10/11/2026,395,unknown,
+lmr.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,lmr.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,7/18/2025,7/17/2026,364,unknown,
+madrasthemes.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,madrasthemes.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/9/2025,1/7/2026,90,unknown,
+hardware-wholesale.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,hardware-wholesale.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/19/2025,1/17/2026,90,unknown,
+cheapflights.com.au,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,cheapflights.com.au,R12,sha256WithRSAEncryption,RSA,2048,11/2/2025,1/31/2026,90,unknown,
+worldofspectrum.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,worldofspectrum.org,R12,sha256WithRSAEncryption,RSA,2048,11/21/2025,2/19/2026,90,unknown,
+agu.edu.vn,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.agu.edu.vn,GlobalSign GCC R6 AlphaSSL CA 2023,sha256WithRSAEncryption,RSA,2048,6/4/2025,7/6/2026,397,unknown,
+acquisition.gov,FALSE,,,,,,,,,,,,timed out
+albacom.net,FALSE,,,,,,,,,,,,timed out
+cursa.app,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cursa.app,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/5/2025,1/3/2026,90,unknown,
+fotolia.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+ttsfree.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ttsfree.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/22/2025,1/20/2026,90,unknown,
+bike-ocasion.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bike-ocasion.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/6/2025,1/4/2026,90,unknown,
+parone.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,parone.io,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/10/2025,1/8/2026,90,unknown,
+modelviewer.lol,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,modelviewer.lol,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/17/2025,1/15/2026,90,unknown,
+cleansizecharts.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cleansizecharts.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/27/2025,1/25/2026,90,unknown,
+bridgewater.edu,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.bridgewater.edu,Amazon RSA 2048 M01,sha256WithRSAEncryption,RSA,2048,11/23/2025,12/22/2026,394,unknown,
+spacewb.tech,FALSE,,,,,,,,,,,,[SSL: TLSV1_ALERT_ACCESS_DENIED] tlsv1 alert access denied (_ssl.c:1010)
+big1cloud.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+mediaoutcast.com,TRUE,TLSv1.2,ECDHE-RSA-CHACHA20-POLY1305,mediaoutcast.com,R13,sha256WithRSAEncryption,RSA,2048,10/27/2025,1/25/2026,90,unknown,
+sportwin365.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+ullu.app,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,ullu.app,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,8/29/2025,9/27/2026,394,unknown,
+sgnetway.net,FALSE,,,,,,,,,,,,[WinError 10054] An existing connection was forcibly closed by the remote host
+iochile.cl,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,iochile.cl,R12,sha256WithRSAEncryption,RSA,2048,10/4/2025,1/2/2026,90,unknown,
+citrea.xyz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,citrea.xyz,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/19/2025,1/17/2026,90,unknown,
+namazvakitleri.com.tr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,namazvakitleri.com.tr,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/1/2025,12/30/2025,90,unknown,
+organiccrap.com,FALSE,,,,,,,,,,,,[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1010)
+veracruz.gob.mx,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,veracruz.gob.mx,GeoTrust TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,12/23/2024,1/15/2026,388,unknown,
+jiotv.be,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,jiotv.be,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/24/2025,1/22/2026,90,unknown,
+solvemate.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+efl.fr,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.efl.fr,RapidSSL TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,9/16/2025,10/16/2026,395,unknown,
+yesplis.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,yesplis.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/20/2025,2/18/2026,90,unknown,
+sp1-nova.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,sp1-nova.ru,R12,sha256WithRSAEncryption,RSA,2048,10/26/2025,1/24/2026,90,unknown,
+mirovinsko.hr,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,mirovinsko.hr,GEANT OV RSA CA 4,sha384WithRSAEncryption,RSA,2048,12/12/2024,12/12/2025,365,unknown,
+webafrica.co.za,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,webafrica.co.za,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/20/2025,2/18/2026,90,unknown,
+subhvastra.in,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,subhvastra.in,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/7/2025,1/5/2026,90,unknown,
+cleanup.jp,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.cleanup.jp,Cybertrust Japan SureServer CA G4,sha256WithRSAEncryption,RSA,2048,8/7/2025,8/31/2026,389,unknown,
+simplehost.com.br,TRUE,TLSv1.3,TLS_CHACHA20_POLY1305_SHA256,simplehost.com.br,R13,sha256WithRSAEncryption,RSA,2048,10/5/2025,1/3/2026,90,unknown,
+globaliraq.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,globaliraq.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/30/2025,12/29/2025,90,unknown,
+kaizty.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+domonet.jp,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,domonet.jp,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/20/2025,1/18/2026,90,unknown,
+global.brother,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,global.brother,DigiCert TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,6/24/2025,4/14/2026,294,unknown,
+receno.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,*.sixcore-server.jp,CloudSecure RSA Domain Validation Secure Server CA 3,sha256WithRSAEncryption,RSA,2048,10/6/2025,11/6/2026,396,unknown,
+haierinfo.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+adesso.de,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.adesso.de,GeoTrust TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,9/10/2025,10/7/2026,392,unknown,
+tlu.ee,FALSE,,,,,,,,,,,,timed out
+zqbmyr.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+sexart.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+lapp.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.lapp.com,EUNETIC RSA Domain Validation Secure Server CA 3,sha256WithRSAEncryption,RSA,4096,8/7/2025,9/7/2026,396,unknown,
+zerogameth.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,zerogameth.com,WR3,sha256WithRSAEncryption,RSA,2048,11/17/2025,2/15/2026,90,unknown,
+safewebservices.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+leiloesalbino.com.br,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,*.leiloesalbino.com.br,GlobalSign GCC R6 AlphaSSL CA 2023,sha256WithRSAEncryption,RSA,4096,5/27/2024,6/28/2025,397,unknown,
+022022.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.022022.net,DigiCert TLS Hybrid ECC SHA384 2020 CA1,ecdsa-with-SHA384,ECDSA,secp256r1,3/3/2025,3/6/2026,368,unknown,
+onepay.news,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,onepay.news,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/6/2025,1/4/2026,90,unknown,
+join-eby.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+bsdgd.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+jidapower.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+7amh5.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+imagedeliveries.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+brokenlinkcheck.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,brokenlinkcheck.com,Sectigo Public Server Authentication CA DV R36,sha256WithRSAEncryption,RSA,2048,10/21/2025,11/21/2026,396,unknown,
+easyspin.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mail.easyspin.org,R13,sha256WithRSAEncryption,RSA,2048,10/19/2025,1/17/2026,90,unknown,
+quad.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,quad.com,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/14/2025,1/12/2026,90,unknown,
+science.gc.ca,FALSE,,,,,,,,,,,,_ssl.c:993: The handshake operation timed out
+renata-ltd.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mail.renata-ltd.com,R13,sha256WithRSAEncryption,RSA,2048,11/6/2025,2/4/2026,90,unknown,
+tv24.lt,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,kava.ee,R13,sha256WithRSAEncryption,RSA,2048,10/10/2025,1/8/2026,90,unknown,
+lrmer.com,FALSE,,,,,,,,,,,,timed out
+bikable.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bikable.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/7/2025,1/5/2026,90,unknown,
+chomered.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,chomered.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/8/2025,1/6/2026,90,unknown,
+4d2u.co,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+jmta.org.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+opposite-fashion.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.opposite-fashion.com,R12,sha256WithRSAEncryption,RSA,2048,11/6/2025,2/4/2026,90,unknown,
+saiquaner.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+zqonline.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+kawaguchi-lib.jp,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+ordretierce-vip.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+kasumichan.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.kasumichan.com,R13,sha256WithRSAEncryption,RSA,2048,10/10/2025,1/8/2026,90,unknown,
+estima.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.estima.ru,GlobalSign RSA OV SSL CA 2018,sha256WithRSAEncryption,RSA,2048,2/14/2025,3/18/2026,397,unknown,
+arcdn.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,arcdn.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/9/2025,1/7/2026,90,unknown,
+traditio.wiki,TRUE,TLSv1.2,ECDHE-ECDSA-AES128-GCM-SHA256,traditio.wiki,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/5/2025,2/3/2026,90,unknown,
+attstadium.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,attstadium.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,4096,4/15/2025,4/23/2026,373,unknown,
+skivefolkeblad.dk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,skivefolkeblad.dk,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/5/2025,1/4/2026,91,unknown,
+alzura.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.alzura.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,11/3/2025,12/4/2026,396,unknown,
+colfondos.com.co,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,colfondos.com.co,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,10/23/2025,10/23/2026,365,unknown,
+656m.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+islam360.app,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,islam360.app,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/11/2025,1/9/2026,90,unknown,
+fluent.ltd.uk,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.fluent.ltd.uk,R12,sha256WithRSAEncryption,RSA,2048,9/1/2025,11/30/2025,90,unknown,
+clearimaging12.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,Plesk,Plesk,sha256WithRSAEncryption,RSA,2048,9/21/2021,9/21/2022,365,unknown,
+abimagecdn.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+xsportshd.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,xsportshd.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/27/2025,12/26/2025,90,unknown,
+ynrjw.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+ng112.gov.tr,FALSE,,,,,,,,,,,,timed out
+chipotleiq.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,chipotleiq.com,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,8/25/2025,9/23/2026,394,unknown,
+travsrv.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,travsrv.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/13/2025,1/11/2026,90,unknown,
+bos898id.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+sg-emc.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+shhyfund.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+strefazajec.pl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,strefazajec.pl,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/18/2025,1/16/2026,90,unknown,
+one2seek.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+mmh9.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+escapology.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.escapology.com,Amazon RSA 2048 M01,sha256WithRSAEncryption,RSA,2048,10/14/2025,11/12/2026,394,unknown,
+starrynightlion.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,starrynightlion.com,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,5/21/2025,6/19/2026,394,unknown,
+goujin.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+zoomcar.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,zoomcar.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/19/2025,1/17/2026,90,unknown,
+popjam.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+airnetz.net.in,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,airnetz.net.in,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,10/13/2025,10/13/2026,365,unknown,
+wonderlic.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,wonderlic.com,R12,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+zjkskf.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+koreanbapsang.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,koreanbapsang.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/27/2025,1/25/2026,90,unknown,
+iknigi.net,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,iknigi.net,R12,sha256WithRSAEncryption,RSA,2048,10/22/2025,1/20/2026,90,unknown,
+chekin.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,chekin.com,R12,sha256WithRSAEncryption,RSA,4096,11/15/2025,2/13/2026,90,unknown,
+museenkoeln.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,museenkoeln.de,R12,sha256WithRSAEncryption,RSA,3072,10/4/2025,1/2/2026,90,unknown,
+awardhq.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,awardhq.com,WR3,sha256WithRSAEncryption,RSA,2048,10/12/2025,1/10/2026,90,unknown,
+nexity.fr,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.nexity.fr,Trusted Secure Certificate Authority DV,sha256WithRSAEncryption,RSA,2048,8/1/2025,8/1/2026,365,unknown,
+noo-school.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,noo-school.ru,R12,sha256WithRSAEncryption,RSA,2048,9/19/2025,12/18/2025,90,unknown,
+evcc.io,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,evcc.io,R12,sha256WithRSAEncryption,RSA,2048,10/22/2025,1/20/2026,90,unknown,
+touken-ranbu.jp,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+dcdn.es,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+kglteater.dk,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,kglteater.dk,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,10/27/2025,11/27/2026,396,unknown,
+muscatdaily.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,muscatdaily.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/28/2025,1/26/2026,90,unknown,
+3irobotics.net,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.3irobotics.net,RapidSSL Global TLS RSA4096 SHA256 2022 CA1,sha256WithRSAEncryption,RSA,2048,8/22/2024,9/8/2025,382,unknown,
+backyardoas.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,backyardoas.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/25/2025,12/24/2025,90,unknown,
+caasco.ca,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.caasco.com,COMODO RSA Organization Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,5/26/2025,5/26/2026,365,unknown,
+banesco.com.pa,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,banesco.com.pa,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,6/8/2025,7/7/2026,394,unknown,
+anacondamovie.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,edge-micros1.sonypictures.com,DigiCert Global G3 TLS ECC SHA384 2020 CA1,ecdsa-with-SHA384,ECDSA,secp256r1,11/21/2025,7/15/2026,236,unknown,
+eatyourbooks.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,eatyourbooks.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/17/2025,1/15/2026,90,unknown,
+xiazaiba.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,xiazaiba.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/2/2025,1/31/2026,90,unknown,
+grupaonet.pl,FALSE,,,,,,,,,,,,timed out
+mypbphsystem.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mypbphsystem.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/1/2025,12/30/2025,90,unknown,
+niner.net,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,*.niner.net,RapidSSL TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,1/15/2025,1/15/2026,365,unknown,
+mf.uz,FALSE,,,,,,,,,,,,_ssl.c:993: The handshake operation timed out
+pbucket.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,febfe3e9.sni.cloudflaressl.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/3/2025,2/1/2026,90,unknown,
+saiou3.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+kitrm.ru,FALSE,,,,,,,,,,,,timed out
+lovethework.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,lovethework.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/19/2025,1/17/2026,90,unknown,
+jilibay.net,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.jilibay.net,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,5/31/2025,6/29/2026,394,unknown,
+nexweb.us,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+ossnet.lv,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ossnet.lv,E8,ecdsa-with-SHA384,ECDSA,secp384r1,11/23/2025,2/21/2026,90,unknown,
+poodo.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+searchify.app,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.searchify.app,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,6/27/2025,7/26/2026,394,unknown,
+detran.ro.gov.br,FALSE,,,,,,,,,,,,_ssl.c:993: The handshake operation timed out
+bdswiss.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bdswiss.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/27/2025,12/27/2025,91,unknown,
+uzleti.hu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,uzleti.hu,R13,sha256WithRSAEncryption,RSA,2048,11/5/2025,2/3/2026,90,unknown,
+bada.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+gamesfrog.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,gamesfrog.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/9/2025,1/7/2026,90,unknown,
+tribepayments.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tribepayments.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/4/2025,1/2/2026,90,unknown,
+zdzhk.com,TRUE,TLSv1.2,ECDHE-ECDSA-AES128-GCM-SHA256,zdzhk.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,9/15/2025,12/14/2025,90,unknown,
+homemadesimple.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.homemadesimple.com,Sectigo RSA Organization Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,4/1/2025,5/1/2026,395,unknown,
+fugogames.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,lucid-germain.13-53-168-173.plesk.page,R3,sha256WithRSAEncryption,RSA,2048,11/9/2021,2/7/2022,90,unknown,
+onthegotours.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,onthegotours.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/9/2025,1/7/2026,90,unknown,
+ausenco.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.ausenco.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,8/20/2025,9/20/2026,396,unknown,
+beautytop.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+rugbyworld.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,rugbyworld.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/25/2025,1/23/2026,90,unknown,
+smarthost.eu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.smarthost.eu,GoGetSSL RSA DV CA,sha256WithRSAEncryption,RSA,2048,3/3/2025,4/2/2026,395,unknown,
+cleiss.fr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.cleiss.fr,R13,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+uatf.edu.bo,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,uatf.edu.bo,R12,sha256WithRSAEncryption,RSA,2048,11/3/2025,2/1/2026,90,unknown,
+domstol.no,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.domstol.no,GeoTrust TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,9/15/2025,10/1/2026,381,unknown,
+autopieseonline24.ro,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,autopieseonline24.ro,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/15/2025,1/13/2026,90,unknown,
+efon.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,efon.io,E7,ecdsa-with-SHA384,ECDSA,secp256r1,9/26/2025,12/25/2025,90,unknown,
+new.fr,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,new.fr,Encryption Everywhere DV TLS CA - G2,sha256WithRSAEncryption,RSA,2048,12/17/2024,12/17/2025,365,unknown,
+spanto.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,spanto.net,R12,sha256WithRSAEncryption,RSA,4096,11/18/2025,2/16/2026,90,unknown,
+pthjrc.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+shazam.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,shazam.net,GeoTrust Global TLS RSA4096 SHA256 2022 CA1,sha256WithRSAEncryption,RSA,2048,8/6/2025,2/6/2026,184,unknown,
+marksandspencer.com.ph,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,marksandspencer.com.ph,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/21/2025,2/19/2026,90,unknown,
+dvlp.cc,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,dvlp.cc,R13,sha256WithRSAEncryption,RSA,2048,11/21/2025,2/19/2026,90,unknown,
+worldtracer.aero,FALSE,,,,,,,,,,,,timed out
+positiva.gov.co,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,www.positiva.gov.co,DigiCert EV RSA CA G2,sha256WithRSAEncryption,RSA,2048,9/23/2025,12/2/2025,70,unknown,
+hijacking.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+euplatform.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+moheganpa.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,moheganpa.com,R13,sha256WithRSAEncryption,RSA,2048,10/15/2025,1/13/2026,90,unknown,
+dailyo.in,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.businesstoday.in,R12,sha256WithRSAEncryption,RSA,2048,10/27/2025,1/25/2026,90,unknown,
+imanageshare.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.imanageshare.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,8/29/2025,9/29/2026,396,unknown,
+seattlesymphony.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.seattlesymphony.org,Sectigo Public Server Authentication CA DV R36,sha256WithRSAEncryption,RSA,2048,8/4/2025,9/4/2026,396,unknown,
+warhead.org.uk,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,blog.point-defect.co.uk,R12,sha256WithRSAEncryption,RSA,4096,10/28/2025,1/26/2026,90,unknown,
+banksalad.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.banksalad.com,Thawte TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,8/4/2025,8/27/2026,388,unknown,
+freeconferencealerts.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,freeconferencealerts.com,R12,sha256WithRSAEncryption,RSA,2048,9/27/2025,12/26/2025,90,unknown,
+tirolschiffahrt.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+zdrjw.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+sportdeutschland.tv,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,sportdeutschland.tv,R12,sha256WithRSAEncryption,RSA,2048,10/13/2025,1/11/2026,90,unknown,
+starhonours.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+usfs.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+vtcdn.net,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,vtcdn.net,R13,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+a7.ru,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.a7.ru,GlobalSign GCC R3 DV TLS CA 2020,sha256WithRSAEncryption,RSA,2048,7/21/2025,8/22/2026,397,unknown,
+gresikweb.space,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+trenz.pl,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+ecru.es,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ecru.es,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/20/2025,2/18/2026,90,unknown,
+jazzypizza.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+workplaceoptions.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.workplaceoptions.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,4/2/2025,4/5/2026,368,unknown,
+xolution.nu,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+thelittlebazaar.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,www.thelittlebazaar.com,RapidSSL TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,11/25/2024,12/24/2025,394,unknown,
+pes.edu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pes.edu,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/4/2025,2/2/2026,90,unknown,
+thefabriceditors.com.au,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,thefabriceditors.com.au,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/25/2025,12/24/2025,90,unknown,
+tornadodesign.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tornadodesign.com,R13,sha256WithRSAEncryption,RSA,2048,11/13/2025,2/11/2026,90,unknown,
+storiadirect.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,storiadirect.com,R12,sha256WithRSAEncryption,RSA,2048,9/20/2025,12/19/2025,90,unknown,
+minpaku.ac.jp,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+coderpath.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,coderpath.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/10/2025,2/8/2026,90,unknown,
+caras.cn,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+museocinema.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,museocinematorino.it,R12,sha256WithRSAEncryption,RSA,2048,11/22/2025,2/20/2026,90,unknown,
+115778.cn,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+jc966.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+bpfpgu.ru,FALSE,,,,,,,,,,,,timed out
+dotalliance.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.dotalliance.com,Sectigo Public Server Authentication CA DV R36,sha256WithRSAEncryption,RSA,4096,7/14/2025,8/13/2026,395,unknown,
+h6658.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+woodfloorwarehouse.ie,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,woodfloorwarehouse.ie,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/21/2025,2/19/2026,90,unknown,
+arabhub-sex.site,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,3ee990f2.sni.cloudflaressl.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/20/2025,1/18/2026,90,unknown,
+bluerating.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bluerating.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/4/2025,1/2/2026,90,unknown,
+bbcpie.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+yyymk.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+ltrk.co,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ltrk.co,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/28/2025,1/26/2026,90,unknown,
+mianmo88.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+svgc.ru,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,svgc.ru,R13,sha256WithRSAEncryption,RSA,2048,11/18/2025,2/16/2026,90,unknown,
+incoghost.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,kcmo-01.incoghost.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/20/2025,1/18/2026,90,unknown,
+spybriefing.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,spybriefing.com,R13,sha256WithRSAEncryption,RSA,2048,10/4/2025,1/2/2026,90,unknown,
+30045.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+knigozakaz.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,knigozakaz.ru,R13,sha256WithRSAEncryption,RSA,2048,8/31/2025,11/29/2025,90,unknown,
+puredreamlab.xyz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,puredreamlab.xyz,R13,sha256WithRSAEncryption,RSA,2048,11/12/2025,2/10/2026,90,unknown,
+55398.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+vlad.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+koson.me,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+livebbs.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+ay999.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+popclub.co.in,FALSE,,,,,,,,,,,,timed out
+riskonnect.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,riskonnect.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,7/18/2025,8/19/2026,397,unknown,
+mahindradirectparts.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mahindradirectparts.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/1/2025,1/30/2026,90,unknown,
+imbceon.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+deutschefotothek.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,deutschefotothek.de,R13,sha256WithRSAEncryption,RSA,2048,10/17/2025,1/15/2026,90,unknown,
+easy-feedback.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,easy-feedback.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/6/2025,1/4/2026,90,unknown,
+tz119.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+snowemotion.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,snowemotion.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/19/2025,2/17/2026,90,unknown,
+pastplace.org,FALSE,,,,,,,,,,,,[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1010)
+gtagames.nl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,gtaforums.nl,R13,sha256WithRSAEncryption,RSA,2048,11/2/2025,1/31/2026,90,unknown,
+rike1.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,rike1.com,E7,ecdsa-with-SHA384,ECDSA,secp384r1,9/17/2025,12/16/2025,90,unknown,
+vesteda.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.vesteda.com,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,5/8/2025,6/4/2026,392,unknown,
+officepuzzle.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,officepuzzle.com,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,8/1/2025,8/30/2026,394,unknown,
+fetedelascience.fr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.fetedelascience.fr,GEANT OV RSA CA 4,sha384WithRSAEncryption,RSA,2048,1/2/2025,1/2/2026,365,unknown,
+anmo6.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+thenigerialawyer.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,thenigerialawyer.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,11/20/2025,1/29/2026,70,unknown,
+gamefile.news,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,gamefile.news,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/15/2025,2/13/2026,90,unknown,
+hptechboard.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-SHA384,hptechboard.com,R12,sha256WithRSAEncryption,RSA,3072,10/21/2025,1/19/2026,90,unknown,
+ufa365.uk,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+faluoli.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+login.pi.gov.br,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,login.pi.gov.br,R13,sha256WithRSAEncryption,RSA,2048,11/13/2025,2/11/2026,90,unknown,
+maier.fr,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,maier.fr,R13,sha256WithRSAEncryption,RSA,4096,11/22/2025,2/20/2026,90,unknown,
+banjalucke-ljepotice.ru,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,<Name(O=Acme Co)>,<Name(O=Acme Co)>,ecdsa-with-SHA256,ECDSA,secp256r1,7/24/2025,7/22/2035,3650,unknown,
+mountain-equipment.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mountain-equipment.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/15/2025,2/13/2026,90,unknown,
+plan2learn.dk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,Fireware web CA,Fireware web CA,sha256WithRSAEncryption,RSA,2048,10/2/2021,10/30/2031,3680,unknown,
+njhfcmxz.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+antikvanti.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.antikvanti.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/27/2025,1/25/2026,90,unknown,
+parken-und-fliegen.de,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,imperva.com,GlobalSign Atlas R3 DV TLS CA 2025 Q4,sha256WithRSAEncryption,RSA,2048,11/4/2025,5/3/2026,180,unknown,
+cleanmyspace.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cleanmyspace.com,R13,sha256WithRSAEncryption,RSA,2048,10/6/2025,1/4/2026,90,unknown,
+fotor.com.cn,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,fotor.com.cn,Let's Encrypt Authority X3,sha256WithRSAEncryption,RSA,2048,9/24/2020,12/23/2020,90,unknown,
+qunzheng.com.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+infonetmt.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,infonetmt.com.br,R12,sha256WithRSAEncryption,RSA,4096,10/28/2025,1/26/2026,90,unknown,
+51tel.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+fogpharma.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+localjost.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,localjost.com,R13,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+is1c.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.is1c.ru,GlobalSign GCC R6 AlphaSSL CA 2023,sha256WithRSAEncryption,RSA,4096,3/12/2025,4/13/2026,397,unknown,
+qshkg.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+kzbsf.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+24191.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+27852.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+hentaiarena.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+poodll.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,poodll.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/24/2025,1/22/2026,90,unknown,
+hellotoby.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.hellotoby.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,4/7/2025,5/9/2026,397,unknown,
+fracturedcode.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,fracturedcode.net,E7,ecdsa-with-SHA384,ECDSA,secp256r1,11/15/2025,2/13/2026,90,unknown,
+7fon.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.7fon.org,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/24/2025,1/22/2026,90,unknown,
+csfb.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+fox168.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+allenlund.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+cis.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.host.cis.net,R12,sha256WithRSAEncryption,RSA,2048,10/4/2025,1/2/2026,90,unknown,
+pugmarktagua.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pugmarktagua.com,R12,sha256WithRSAEncryption,RSA,2048,10/10/2025,1/8/2026,90,unknown,
+jzdw.net,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+fruugosaudiarabia.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.fruugo.com,DigiCert EV RSA CA G2,sha256WithRSAEncryption,RSA,2048,8/27/2025,8/29/2026,367,unknown,
+contractscounsel.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,contractscounsel.com,R12,sha256WithRSAEncryption,RSA,2048,10/17/2025,1/15/2026,90,unknown,
+hmeapps.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.hmeapps.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,6/25/2025,7/27/2026,397,unknown,
+netspi.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,netspi.com,R12,sha256WithRSAEncryption,RSA,2048,10/18/2025,1/16/2026,90,unknown,
+machmusic.com.br,FALSE,,,,,,,,,,,,timed out
+changyan.cn,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+superrich1965.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,superrich1965.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/28/2025,12/27/2025,90,unknown,
+loginiiportal.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,<Name()>,<Name()>,sha256WithRSAEncryption,RSA,2048,4/30/2025,4/28/2035,3650,unknown,
+elentrerios.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,elentrerios.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/16/2025,2/14/2026,90,unknown,
+bx.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+n47n.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+nordiceuropean.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,nordiceuropean.com,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/3/2025,1/1/2026,90,unknown,
+incgamers.com,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+sportdata.win,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+kxyayubo.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+cdn-wifi.tech,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+bodytalk.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bodytalk.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/28/2025,12/27/2025,90,unknown,
+favorites.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,www.potpourrigroup.com,GeoTrust TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,4/9/2025,1/22/2026,288,unknown,
+globalpiyasa.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+52tvshow.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+new-retro-casino231.ru,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+doosanheavy.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,redirect01,redirect01,sha256WithRSAEncryption,RSA,2048,8/19/2021,8/24/2022,370,unknown,
+buildonscenes.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,buildonscenes.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,11/17/2025,6/3/2026,198,unknown,
+fametro.edu.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,fametro.edu.br,Starfield Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,11/11/2025,12/11/2026,395,unknown,
+neurotech.com.br,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+leoni.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,leoni.com,R12,sha256WithRSAEncryption,RSA,2048,10/27/2025,1/25/2026,90,unknown,
+ceasy.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.ceasy.de,Starfield Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,2/3/2025,3/5/2026,395,unknown,
+wqmyr.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+mgdhttl.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+fycma.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,fycma.com,R13,sha256WithRSAEncryption,RSA,2048,10/28/2025,1/26/2026,90,unknown,
+grcbank.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+sdwlcc.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+uzumcheckout.uz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,uzumcheckout.uz,R13,sha256WithRSAEncryption,RSA,2048,9/26/2025,12/25/2025,90,unknown,
+trwaftermarket.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,trwaftermarket.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,3/25/2025,4/24/2026,395,unknown,
+sale-attestati-v-kovrove-33.ru,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+margaretriver.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,margaretriver.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/12/2025,2/11/2026,91,unknown,
+niko.ua,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,niko.ua,R13,sha256WithRSAEncryption,RSA,2048,9/3/2025,12/2/2025,90,unknown,
+portalfarma.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-SHA384,*.portalfarma.com,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,3/12/2025,4/1/2026,385,unknown,
+2gis.biz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.2gis.biz,ZeroSSL RSA Domain Secure Site CA,sha384WithRSAEncryption,RSA,2048,11/1/2025,1/30/2026,90,unknown,
+fastddns.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,fastddns.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/19/2025,2/17/2026,90,unknown,
+henricocitizen.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,henricocitizen.com,ZeroSSL ECC Domain Secure Site CA,ecdsa-with-SHA384,ECDSA,secp256r1,10/13/2025,1/11/2026,90,unknown,
+90h6.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+bgky.com.cn,FALSE,,,,,,,,,,,,timed out
+iccaworld.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,iccaworld.org,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/18/2025,2/16/2026,90,unknown,
+volvapps.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,game.volvapps.com,TrustAsia DV TLS RSA CA 2025,sha256WithRSAEncryption,RSA,2048,9/5/2025,12/3/2025,89,unknown,
+eboxenterprise.be,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,www.eboxenterprise.be,GEANT OV RSA CA 4,sha384WithRSAEncryption,RSA,2048,12/12/2024,12/12/2025,365,unknown,
+ljrce.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+stadium-krasnodar.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.fckrasnodar.ru,GlobalSign RSA OV SSL CA 2018,sha256WithRSAEncryption,RSA,2048,8/14/2025,9/15/2026,397,unknown,
+klara.ch,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,klara.ch,R12,sha256WithRSAEncryption,RSA,2048,10/17/2025,1/15/2026,90,unknown,
+reach.cloud,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,reach.cloud,R13,sha256WithRSAEncryption,RSA,2048,9/25/2025,12/24/2025,90,unknown,
+hxce.cn,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,hxce.cn,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/28/2025,12/27/2025,90,unknown,
+seasteading.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,seasteading.org,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/5/2025,1/3/2026,90,unknown,
+hdubt.cn,FALSE,,,,,,,,,,,,timed out
+icmarkets.eu,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,icmarkets.eu,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,1/11/2025,2/8/2026,393,unknown,
+dionis-group.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,dionis-group.ru,E8,ecdsa-with-SHA384,ECDSA,secp384r1,9/14/2025,12/13/2025,90,unknown,
+the-brandidentity.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,the-brandidentity.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/3/2025,2/1/2026,90,unknown,
+jxedu.gov.cn,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+hebruilong.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+diploms-o-vysshem-v-volzhskom-34.ru,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+hunt4k.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+jxkymy.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+glh.ru,FALSE,,,,,,,,,,,,timed out
+sipa.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+foliencenter24.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,foliencenter24.com,DigiCert EV RSA CA G2,sha256WithRSAEncryption,RSA,2048,2/25/2025,3/12/2026,380,unknown,
+magenic.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,magenic.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/12/2025,2/10/2026,90,unknown,
+lucky-numbers.ru,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,lucky-numbers.ru,R12,sha256WithRSAEncryption,RSA,2048,10/14/2025,1/12/2026,90,unknown,
+rexzy.xyz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,rexzy.xyz,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/2/2025,12/31/2025,90,unknown,
+pornohd.shop,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+rentawheel.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.rentawheel.com,R12,sha256WithRSAEncryption,RSA,2048,11/9/2025,2/7/2026,90,unknown,
+aikosolar.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.aikosolar.com,Encryption Everywhere DV TLS CA - G2,sha256WithRSAEncryption,RSA,2048,7/17/2025,8/16/2026,395,unknown,
+wenee.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.wenee.net,R13,sha256WithRSAEncryption,RSA,2048,11/17/2025,2/15/2026,90,unknown,
+flicker.cool,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,api.nartick.com,R13,sha256WithRSAEncryption,RSA,2048,10/9/2025,1/7/2026,90,unknown,
+rnvdr.cn,FALSE,,,,,,,,,,,,timed out
+opencartkurulum.xyz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,opencartkurulum.xyz,R12,sha256WithRSAEncryption,RSA,2048,11/6/2025,2/4/2026,90,unknown,
+icenet.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,"<Name(C=AU,ST=Some-State,O=Internet Widgits Pty Ltd)>","<Name(C=AU,ST=Some-State,O=Internet Widgits Pty Ltd)>",sha256WithRSAEncryption,RSA,2048,2/6/2025,2/1/2026,360,unknown,
+ticrecruitment.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,ticrecruitment.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/13/2025,2/11/2026,90,unknown,
+campx.in,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,campx.in,R12,sha256WithRSAEncryption,RSA,4096,11/14/2025,2/12/2026,90,unknown,
+trox.com,FALSE,,,,,,,,,,,,timed out
+omrodee.uk,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+visualmind.app,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,visualmind.app,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,5/1/2025,5/31/2026,395,unknown,
+geometrydashlite2.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,geometrydashlite2.io,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/18/2025,2/16/2026,90,unknown,
+gameyoungerdns.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,gameyoungerdns.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/12/2025,1/10/2026,90,unknown,
+khelo24bet.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+light-living.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,light-living.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/2/2025,1/31/2026,90,unknown,
+elrancaguino.cl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.elrancaguino.cl,R12,sha256WithRSAEncryption,RSA,2048,10/20/2025,1/18/2026,90,unknown,
+viastore.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.viastore.com,ZeroSSL ECC Domain Secure Site CA,ecdsa-with-SHA384,ECDSA,secp256r1,10/1/2025,12/30/2025,90,unknown,
+growthmentor.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,growthmentor.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/13/2025,1/11/2026,90,unknown,
+pki.co.ir,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.pki.co.ir,Certum Domain Validation CA SHA2,sha256WithRSAEncryption,RSA,2048,6/30/2025,6/30/2026,365,unknown,
+ideandola.co,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ideandola.co,R13,sha256WithRSAEncryption,RSA,2048,10/25/2025,1/23/2026,90,unknown,
+werd.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,werd.io,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/6/2025,2/4/2026,90,unknown,
+hdss.art,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,hdss.art,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/7/2025,1/5/2026,90,unknown,
+belgrade.co.uk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,belgrade.co.uk,R12,sha256WithRSAEncryption,RSA,4096,10/13/2025,1/11/2026,90,unknown,
+herdcloud.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+kingandqueenco.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,kingandqueenco.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/9/2025,2/7/2026,90,unknown,
+emesasoftware.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,emesasoftware.com,R12,sha256WithRSAEncryption,RSA,2048,11/21/2025,2/19/2026,90,unknown,
+marine.gov.my,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+kipling.com.pe,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,ugg.cl,R13,sha256WithRSAEncryption,RSA,2048,10/26/2025,1/24/2026,90,unknown,
+journeydraw.ai,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,journeydraw.ai,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/7/2025,1/5/2026,90,unknown,
+dajidoor.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+nwtv.nl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,nwtv.nl,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/7/2025,1/5/2026,90,unknown,
+bbkrn.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+host2wow.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,host2wow.com,R13,sha256WithRSAEncryption,RSA,2048,10/1/2025,12/30/2025,90,unknown,
+newsfilter.io,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.newsfilter.io,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,6/5/2025,7/2/2026,392,unknown,
+palmira-garden.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,palmira-garden.com,R13,sha256WithRSAEncryption,RSA,2048,11/7/2025,2/5/2026,90,unknown,
+smbsw.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+emb6.cn,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+smath.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.smath.com,GlobalSign RSA OV SSL CA 2018,sha256WithRSAEncryption,RSA,2048,5/12/2025,6/13/2026,397,unknown,
+wisdomtreeprimeapp.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+aptcloud.cc,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+torrentbot205.site,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+sunnyvale.com,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+real-statistics.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,autodiscover.real-statistics.com,R13,sha256WithRSAEncryption,RSA,2048,9/26/2025,12/25/2025,90,unknown,
+tesselaar.net.au,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tesselaar.net.au,R13,sha256WithRSAEncryption,RSA,2048,11/11/2025,2/9/2026,90,unknown,
+kaplog.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+hfw.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,hfw.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/12/2025,2/10/2026,90,unknown,
+asnfreeclassifieds.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.asnfreeclassifieds.com,R12,sha256WithRSAEncryption,RSA,2048,10/10/2025,1/8/2026,90,unknown,
+win4440000.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+transparencia.gob.es,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,transparencia.gob.es,"<Name(C=ES,O=FNMT-RCM,OU=AC Componentes Inform?ticos)>",sha256WithRSAEncryption,RSA,2048,10/2/2025,10/2/2026,365,unknown,
+savunmatr.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,savunmatr.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/22/2025,2/20/2026,90,unknown,
+agentselect.net,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+aktys.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,aktys.it,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/23/2025,2/21/2026,90,unknown,
+domfind.de,FALSE,,,,,,,,,,,,timed out
+patirti.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,patirti.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/17/2025,2/15/2026,90,unknown,
+bullethost.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bullethost.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/5/2025,1/3/2026,90,unknown,
+reesehosts.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.reesehosts.net,R12,sha256WithRSAEncryption,RSA,2048,10/27/2025,1/25/2026,90,unknown,
+985996.xyz,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+stcbb.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+emailcenteruk.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,www.emailcenteruk.com,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,1/26/2025,2/25/2026,395,unknown,
+chessvision.ai,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,share.hitek.com.vn,WR3,sha256WithRSAEncryption,RSA,2048,11/23/2025,2/21/2026,90,unknown,
+comune.pisa.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,comune.pisa.it,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/13/2025,1/11/2026,90,unknown,
+hideiqxshlgvjk.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+netsolutions.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,netsolutions.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/29/2025,1/27/2026,90,unknown,
+voxie.net,FALSE,,,,,,,,,,,,timed out
+padukabet.org,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+xchina.click,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,xchina.click,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/3/2025,2/1/2026,90,unknown,
+entegreeder.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+esteghbal-hotel.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,esteghbal-hotel.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,10/29/2025,5/15/2026,198,unknown,
+653356.xyz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,666.xbsj.org,R11,sha256WithRSAEncryption,RSA,2048,10/9/2024,1/7/2025,90,unknown,
+sapdc.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,sapdc.org,ZeroSSL ECC Domain Secure Site CA,ecdsa-with-SHA384,ECDSA,secp384r1,10/12/2025,1/10/2026,90,unknown,
+markscommercial.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,markscommercial.com,DigiCert EV RSA CA G2,sha256WithRSAEncryption,RSA,2048,10/6/2025,11/3/2026,393,unknown,
+allopurinolzyloprim.shop,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+misp.io,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,misp.io,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,6/9/2025,6/9/2026,365,unknown,
+vaporhatch.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,vaporhatch.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/6/2025,1/4/2026,90,unknown,
+1xbet-ivl.top,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,1xbet-ivl.top,R12,sha256WithRSAEncryption,RSA,2048,11/1/2025,1/30/2026,90,unknown,
+onevavada.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,onevavada.ru,R13,sha256WithRSAEncryption,RSA,2048,10/22/2025,1/20/2026,90,unknown,
+celebscouples.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,celebscouples.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/18/2025,1/16/2026,90,unknown,
+ultahosting.website,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ultahosting.website,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/10/2025,2/9/2026,91,unknown,
+banjarbarukota.go.id,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,banjarbarukota.go.id,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/19/2025,2/17/2026,90,unknown,
+wearefuturemaker.ca,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.netlify.app,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,ECDSA,secp256r1,1/31/2025,3/3/2026,396,unknown,
+viet69.my,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+regiaodeleiria.pt,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.regiaodeleiria.pt,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,4096,5/28/2025,5/28/2026,365,unknown,
+leaseteam.net,FALSE,,,,,,,,,,,,timed out
+tyt.by,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+take-profit.org,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,*.take-profit.org,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,4/5/2025,5/5/2026,395,unknown,
+slotozal.app,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+toastcdn.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+weddingboatsanael.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.web-hosting.com,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,3/13/2025,4/5/2026,388,unknown,
+ecochurcheswa.net,TRUE,TLSv1.2,ECDHE-ECDSA-AES256-GCM-SHA384,ecochurcheswa.net,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/3/2025,1/1/2026,90,unknown,
+ctcn.edu.tw,TRUE,TLSv1.2,ECDHE-RSA-AES256-SHA384,*.ctcn.edu.tw,TWCA Secure SSL Certification Authority,sha256WithRSAEncryption,RSA,2048,9/30/2025,10/27/2026,392,unknown,
+gillori.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,gillori.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/22/2025,2/20/2026,90,unknown,
+graphicproducts.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.graphicproducts.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,2/6/2025,3/9/2026,396,unknown,
+jardineventosamarello.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,jardineventosamarello.com,R13,sha256WithRSAEncryption,RSA,4096,11/4/2025,2/2/2026,90,unknown,
+ellisdon.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,ellisdon.com,E7,ecdsa-with-SHA384,ECDSA,secp256r1,11/6/2025,2/4/2026,90,unknown,
+thrive105-93.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,thrive105-93.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,10/18/2025,10/18/2026,365,unknown,
+ceo.co.ug,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.ceo.co.ug,R12,sha256WithRSAEncryption,RSA,2048,9/9/2025,12/8/2025,90,unknown,
+pokewild.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pokewild.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/10/2025,2/8/2026,90,unknown,
+magitech.pe,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.magitech.pe,GlobalSign GCC R3 DV TLS CA 2020,sha256WithRSAEncryption,RSA,2048,2/3/2025,3/7/2026,397,unknown,
+dlapiperdataprotection.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,dlapiperdataprotection.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/30/2025,12/29/2025,90,unknown,
+oxfordcollege.ac,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,oxfordcollege.ac,R12,sha256WithRSAEncryption,RSA,2048,10/7/2025,1/5/2026,90,unknown,
+hostnetwork.in,TRUE,TLSv1.2,ECDHE-ECDSA-AES256-GCM-SHA384,www.hostnetwork.in,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/1/2025,1/30/2026,90,unknown,
+countyschoolwear.co.uk,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,cpcontacts.countyschoolwear.co.uk,R13,sha256WithRSAEncryption,RSA,2048,10/12/2025,1/10/2026,90,unknown,
+gearingtech.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.gearingtech.com,R13,sha256WithRSAEncryption,RSA,2048,9/24/2025,12/23/2025,90,unknown,
+grafistas.eu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,grafistas.eu,R13,sha256WithRSAEncryption,RSA,2048,11/20/2025,2/18/2026,90,unknown,
+pokerdom-bo3s.top,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,pokerdom-bo3s.top,R13,sha256WithRSAEncryption,RSA,4096,10/29/2025,1/27/2026,90,unknown,
+homereserve.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,homereserve.ru,R12,sha256WithRSAEncryption,RSA,2048,10/18/2025,1/16/2026,90,unknown,
+right-mix.co.uk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mail.right-mix.co.uk,R12,sha256WithRSAEncryption,RSA,2048,9/28/2025,12/27/2025,90,unknown,
+beac.int,TRUE,TLSv1.2,ECDHE-RSA-CHACHA20-POLY1305,*.beac.int,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,4/28/2025,5/29/2026,396,unknown,
+tubepornlist.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+segoviaudaz.es,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,segoviaudaz.es,R12,sha256WithRSAEncryption,RSA,2048,10/3/2025,1/1/2026,90,unknown,
+valeton.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,en.valeton.net,R12,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+centroilcentro.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,centroilcentro.it,R12,sha256WithRSAEncryption,RSA,2048,11/13/2025,2/11/2026,90,unknown,
+azuredns-cloud.net,FALSE,,,,,,,,,,,,timed out
+freetv-app.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,freetv-app.com,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,7/8/2025,8/6/2026,394,unknown,
+joy-kasino.click,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+zammler.kz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,zammler.kz,ZeroSSL RSA Domain Secure Site CA,sha384WithRSAEncryption,RSA,2048,11/13/2025,2/11/2026,90,unknown,
+aquashowpark.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.aquashowpark.com,GlobalSign GCC R6 AlphaSSL CA 2023,sha256WithRSAEncryption,RSA,2048,5/19/2025,6/20/2026,397,unknown,
+pencarihoki.click,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pencarihoki.click,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/31/2025,1/29/2026,90,unknown,
+atlas-machinery.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,atlas-machinery.com,Encryption Everywhere G3 TLS ECC P384 SHA384 2023 CA1,ecdsa-with-SHA384,RSA,2048,4/27/2025,4/26/2026,364,unknown,
+flowapp.nl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.flowapp.nl,R13,sha256WithRSAEncryption,RSA,2048,11/5/2025,2/3/2026,90,unknown,
+thaiserver4u.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mail.webhostingsiam.com,R12,sha256WithRSAEncryption,RSA,2048,11/14/2025,2/12/2026,90,unknown,
+gen987fm.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,gen987fm.com,R12,sha256WithRSAEncryption,RSA,2048,10/24/2025,1/22/2026,90,unknown,
+ian.org.br,TRUE,TLSv1.3,TLS_CHACHA20_POLY1305_SHA256,webmail.ian.org.br,R13,sha256WithRSAEncryption,RSA,2048,11/8/2025,2/6/2026,90,unknown,
+vuproplayer.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,vuproplayer.org,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/1/2025,12/30/2025,90,unknown,
+ktp.io,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+anichess.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.anichess.com,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,4/23/2025,5/23/2026,395,unknown,
+helpwritingapaper.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+showhorsegallery.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,showhorsegallery.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/17/2025,1/15/2026,90,unknown,
+klueh.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,klueh.de,Sectigo Public Server Authentication CA DV R36,sha256WithRSAEncryption,RSA,4096,7/25/2025,8/25/2026,396,unknown,
+logisnextamericas.com,FALSE,,,,,,,,,,,,[SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1010)
+foottheball.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,foottheball.com,R13,sha256WithRSAEncryption,RSA,2048,11/21/2025,2/19/2026,90,unknown,
+magazinemedica.com.br,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.magazinemedica.com.br,GeoTrust TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,3/31/2025,5/1/2026,396,unknown,
+creative-designs.ca,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.creative-designs.ca,R12,sha256WithRSAEncryption,RSA,2048,11/14/2025,2/12/2026,90,unknown,
+profesionaldj.es,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,profesionaldj.es,R12,sha256WithRSAEncryption,RSA,2048,11/9/2025,2/7/2026,90,unknown,
+craftluna.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,craftluna.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/21/2025,1/19/2026,90,unknown,
+qycn.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+aryanews.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-SHA384,aryanews.com,R13,sha256WithRSAEncryption,RSA,2048,10/12/2025,1/10/2026,90,unknown,
+websuccess-data.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+rackpa.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.rackpa.com,R12,sha256WithRSAEncryption,RSA,2048,11/17/2025,2/15/2026,90,unknown,
+onderwijsonline.nl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.onderwijsonline.nl,R12,sha256WithRSAEncryption,RSA,2048,9/24/2025,12/23/2025,90,unknown,
+ug-admin4.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ug-admin4.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/31/2025,1/29/2026,90,unknown,
+sportvision-promo.com,FALSE,,,,,,,,,,,,timed out
+audhtzvtwd.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+fsknw.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.fsknw.ru,GlobalSign GCC R3 DV TLS CA 2020,sha256WithRSAEncryption,RSA,2048,3/17/2025,4/18/2026,397,unknown,
+rousterchem.com,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+nctripping.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,nctripping.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/15/2025,1/13/2026,90,unknown,
+thutomdm.com,FALSE,,,,,,,,,,,,timed out
+musicinfo.pro,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,musicinfo.pro,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/4/2025,1/2/2026,90,unknown,
+mostmedia.com.ua,TRUE,TLSv1.2,ECDHE-ECDSA-AES128-GCM-SHA256,mostmedia.com.ua,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/29/2025,1/27/2026,90,unknown,
+scducks.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,scducks.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/14/2025,1/12/2026,90,unknown,
+marinetraffic.live,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,marinetraffic.live,Cloudflare TLS Issuing ECC CA 1,ecdsa-with-SHA256,ECDSA,secp256r1,10/16/2025,1/14/2026,90,unknown,
+thisbrng.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,thisbrng.com,R12,sha256WithRSAEncryption,RSA,4096,11/8/2025,2/6/2026,90,unknown,
+mahgoub.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.mahgoub.com,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,5/18/2025,6/18/2026,396,unknown,
+starnet.network,TRUE,TLSv1.2,ECDHE-ECDSA-AES256-GCM-SHA384,starnet.network,E7,ecdsa-with-SHA384,ECDSA,secp256r1,11/20/2025,2/18/2026,90,unknown,
+metaposto.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,hospedagemapp.metanetsistemas.com.br,E8,ecdsa-with-SHA384,ECDSA,secp384r1,11/16/2025,2/14/2026,90,unknown,
+deltaceramica.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.deltaceramica.com.br,R13,sha256WithRSAEncryption,RSA,2048,10/19/2025,1/17/2026,90,unknown,
+adecco.nl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,prd-redirects-02-eur-ie.adeccogroup.com,Sectigo Public Server Authentication CA OV R36,sha256WithRSAEncryption,RSA,2048,9/26/2025,9/26/2026,365,unknown,
+lenskart.sg,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,lenskart.sg,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/3/2025,1/1/2026,90,unknown,
+chinacoupon.info,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,chinacoupon.info,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/21/2025,1/19/2026,90,unknown,
+runukraine.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,runukraine.org,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/30/2025,12/29/2025,90,unknown,
+resilia.shop,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,resilia.shop,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/18/2025,1/16/2026,90,unknown,
+bryanstepwise.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bryanstepwise.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/20/2025,2/18/2026,90,unknown,
+frimesa.com.br,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,frimesa.com.br,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,1/22/2025,2/23/2026,397,unknown,
+elitis.fr,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,elitis.fr,R12,sha256WithRSAEncryption,RSA,2048,9/25/2025,12/24/2025,90,unknown,
+yildirimgazetesi.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,yildirimgazetesi.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/26/2025,1/24/2026,90,unknown,
+jumia.re,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.jumia.com,R13,sha256WithRSAEncryption,RSA,2048,10/13/2025,1/11/2026,90,unknown,
+laybyland.com.au,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,*.laybyland.com.au,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,10/20/2025,11/18/2026,394,unknown,
+mostbet-bk1.xyz,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,mostbet-bk1.xyz,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,7/15/2025,7/15/2026,365,unknown,
+lgtrk.lol,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+campingredbullring.com,FALSE,,,,,,,,,,,,timed out
+hockeybundesliga.de,TRUE,TLSv1.2,ECDHE-ECDSA-AES128-GCM-SHA256,hockeybundesliga.de,Amazon ECDSA 256 M02,ecdsa-with-SHA256,ECDSA,secp256r1,3/25/2025,4/24/2026,395,unknown,
+zackgroup.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,zackgroup.net,Starfield Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,11/15/2025,2/13/2026,90,unknown,
+my-caffe.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,my-caffe.ru,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/7/2025,2/5/2026,90,unknown,
+fishforums.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,fishforums.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/14/2025,2/12/2026,90,unknown,
+loftwarecloud.com,FALSE,,,,,,,,,,,,_ssl.c:993: The handshake operation timed out
+givealittle.co,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,givealittle.co,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,9/10/2025,10/9/2026,394,unknown,
+bibliotheken.nl,FALSE,,,,,,,,,,,,timed out
+islandnagasaki.jp,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,islandnagasaki.jp,R12,sha256WithRSAEncryption,RSA,2048,9/23/2025,12/22/2025,90,unknown,
+velobest.bike,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,velobest.bike,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/15/2025,2/13/2026,90,unknown,
+pairlist.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,dev.pairlist.net,R12,sha256WithRSAEncryption,RSA,2048,11/22/2025,2/20/2026,90,unknown,
+screenweek.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,screenweek.it,R12,sha256WithRSAEncryption,RSA,2048,10/21/2025,1/19/2026,90,unknown,
+merovedenie.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.merovedenie.org,R13,sha256WithRSAEncryption,RSA,2048,9/21/2025,12/20/2025,90,unknown,
+eccowifi.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.sucuri.net,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,8/27/2025,9/28/2026,397,unknown,
+primerempleo.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,primerempleo.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/29/2025,1/27/2026,90,unknown,
+photon.health,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,photon.health,R13,sha256WithRSAEncryption,RSA,2048,10/31/2025,1/29/2026,90,unknown,
+pixeleze.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pixeleze.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,10/11/2025,11/12/2026,397,unknown,
+virtus.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,virtus.it,R13,sha256WithRSAEncryption,RSA,2048,11/11/2025,2/9/2026,90,unknown,
+freyrsolutions.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,freyrsolutions.com,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,8/9/2025,9/7/2026,394,unknown,
+zeppelin-group.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ywor.it,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/27/2025,1/25/2026,90,unknown,
+goodtastexmovs.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+casadesante.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,casadesante.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/19/2025,2/17/2026,90,unknown,
+searchbug.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,searchbug.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/27/2025,12/26/2025,90,unknown,
+cleanpix.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cleanpix.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/28/2025,1/26/2026,90,unknown,
+full-hentai.net,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+777hu.net,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+perens.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,perens.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/26/2025,1/24/2026,90,unknown,
+zephyrmedias.com,TRUE,TLSv1.2,ECDHE-ECDSA-AES128-GCM-SHA256,cloud.zephyrmedias.com,E8,ecdsa-with-SHA384,ECDSA,secp384r1,9/27/2025,12/26/2025,90,unknown,
+lyricmasuma.monster,FALSE,,,,,,,,,,,,timed out
+unquote.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.avcj.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,4096,5/12/2025,5/11/2026,364,unknown,
+audi.hu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,audi.hu,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,3072,10/15/2025,10/14/2026,364,unknown,
+unitecustom.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,unitecustom.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/3/2025,1/1/2026,90,unknown,
+biodiversity.ru,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,biodiversity.ru,R13,sha256WithRSAEncryption,RSA,2048,10/18/2025,1/16/2026,90,unknown,
+pagalguy.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pagalguy.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/13/2025,1/11/2026,90,unknown,
+assets123.xyz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,assets123.xyz,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/29/2025,1/27/2026,90,unknown,
+cardsmanager.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cardsmanager.it,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,3/2/2025,4/3/2026,397,unknown,
+bookmark-step.win,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+peppys.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,peppys.org,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/4/2025,1/2/2026,90,unknown,
+noahlipsitz.com,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+nippper.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tls.automattic.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/6/2025,1/4/2026,90,unknown,
+artik.cloud,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,artik.cloud,R12,sha256WithRSAEncryption,RSA,2048,10/16/2025,1/14/2026,90,unknown,
+pintia.cn,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.pintia.cn,GlobalSign GCC R6 AlphaSSL CA 2025,sha256WithRSAEncryption,RSA,4096,10/29/2025,11/30/2026,397,unknown,
+90phutxxv.cc,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,90phutxxv.cc,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/16/2025,1/14/2026,90,unknown,
+agilitycmms.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+avenueone.sg,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tls.automattic.com,E7,ecdsa-with-SHA384,ECDSA,secp256r1,9/23/2025,12/22/2025,90,unknown,
+ncw6.net,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,uyzu.net,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,10/25/2025,11/22/2026,393,unknown,
+groundguitar.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,groundguitar.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/11/2025,2/9/2026,90,unknown,
+havazona.info,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+tv-news.tokyo,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+alwyzon.at,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,alwyzon.at,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/28/2025,1/26/2026,90,unknown,
+mordor-rp.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,l.mordor-rp.com,R12,sha256WithRSAEncryption,RSA,2048,9/18/2025,12/17/2025,90,unknown,
+disciples.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,disciples.org,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/13/2025,1/11/2026,90,unknown,
+joe.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,joe.org,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/12/2025,1/10/2026,90,unknown,
+cpad.com.br,FALSE,,,,,,,,,,,,timed out
+indiefit.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+mcqueenconnection.ru,FALSE,,,,,,,,,,,,_ssl.c:993: The handshake operation timed out
+meridianbet.ke,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+cosline.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cosline.de,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/1/2025,12/30/2025,90,unknown,
+andnextcomesl.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,andnextcomesl.com,WR3,sha256WithRSAEncryption,RSA,2048,10/27/2025,1/25/2026,90,unknown,
+sbecouncil.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,sbecouncil.org,R13,sha256WithRSAEncryption,RSA,2048,10/7/2025,1/5/2026,90,unknown,
+kishports.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,kishports.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/4/2025,1/2/2026,90,unknown,
+caripr.net,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+klooop.ru,FALSE,,,,,,,,,,,,timed out
+jbradshaw.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,jbradshaw.com,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,12/17/2024,1/18/2026,397,unknown,
+textmynumber.com,FALSE,,,,,,,,,,,,_ssl.c:993: The handshake operation timed out
+aquaphor.bg,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,aquaphor.bg,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/8/2025,1/6/2026,90,unknown,
+dreamland.travel,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,dreamland.travel,R12,sha256WithRSAEncryption,RSA,2048,10/5/2025,1/3/2026,90,unknown,
+applavoro.it,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.applavoro.it,R12,sha256WithRSAEncryption,RSA,2048,11/6/2025,2/4/2026,90,unknown,
+monportailrh.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,monportailrh.com,R12,sha256WithRSAEncryption,RSA,2048,11/10/2025,2/8/2026,90,unknown,
+pkp1.bet,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+accord-hosting.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,accord-hosting.com,R12,sha256WithRSAEncryption,RSA,2048,10/28/2025,1/26/2026,90,unknown,
+webbeam.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,webbeam.de,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/18/2025,2/16/2026,90,unknown,
+recettesmania.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,recettesmania.com,R13,sha256WithRSAEncryption,RSA,2048,10/24/2025,1/22/2026,90,unknown,
+ultahostss.icu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ultahostss.icu,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/4/2025,1/2/2026,90,unknown,
+loltopup.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,loltopup.com,R12,sha256WithRSAEncryption,RSA,2048,10/8/2025,1/6/2026,90,unknown,
+toporando.fr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,toporando.fr,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/1/2025,1/30/2026,90,unknown,
+sdtb.de,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.sdtb.de,Sectigo Public Server Authentication CA DV R36,sha256WithRSAEncryption,RSA,2048,7/9/2025,7/23/2026,379,unknown,
+patientsreach.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,app.practicenumbers.com,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,2/14/2025,3/14/2026,393,unknown,
+cretec.kr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.cretec.kr,GoGetSSL RSA DV CA,sha256WithRSAEncryption,RSA,2048,6/9/2025,7/9/2026,395,unknown,
+minikoyuncu.org,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,minikoyuncu.org,R12,sha256WithRSAEncryption,RSA,2048,11/3/2025,2/1/2026,90,unknown,
+somno.cl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,somno.cl,R12,sha256WithRSAEncryption,RSA,4096,11/14/2025,2/12/2026,90,unknown,
+lords.today,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,lords.today,E8,ecdsa-with-SHA384,ECDSA,secp384r1,10/16/2025,1/14/2026,90,unknown,
+jeujouet.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,jeujouet.com,Certainly Intermediate R1,sha256WithRSAEncryption,RSA,2048,11/17/2025,12/17/2025,30,unknown,
+drivers-download.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,drivers-download.net,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/14/2025,1/12/2026,90,unknown,
+mps.k12.al.us,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mps.k12.al.us,R13,sha256WithRSAEncryption,RSA,2048,10/10/2025,1/8/2026,90,unknown,
+linuxboom.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.linuxboom.com,R12,sha256WithRSAEncryption,RSA,2048,11/10/2025,2/8/2026,90,unknown,
+surveyinstrumentsales.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,surveyinstrumentsales.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/14/2025,2/12/2026,90,unknown,
+battdepot.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,battdepot.com,Thawte TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,8/14/2025,8/27/2026,378,unknown,
+animelab.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,animelab.com,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,6/5/2025,7/4/2026,394,unknown,
+ultahhost.skin,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ultahhost.skin,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/2/2025,1/31/2026,90,unknown,
+xn--2s2b99c38x33b65k.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,xn--2s2b99c38x33b65k.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,9/30/2025,12/29/2025,90,unknown,
+progavrichenko.ru,TRUE,TLSv1.2,ECDHE-ECDSA-AES128-GCM-SHA256,progavrichenko.ru,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/29/2025,12/28/2025,90,unknown,
+raisingteenstoday.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,raisingteenstoday.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/29/2025,1/27/2026,90,unknown,
+financeit.io,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,www.financeit.io,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,6/30/2025,7/28/2026,393,unknown,
+medra.org,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.medra.org,DigiCert TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,1/14/2025,1/18/2026,369,unknown,
+jkns.pl,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,jkns.pl,R13,sha256WithRSAEncryption,RSA,2048,9/10/2025,12/9/2025,90,unknown,
+source4game.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,source4game.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/12/2025,2/10/2026,90,unknown,
+sdc.org,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,*.sdc.org,SSL.com RSA SSL subCA,sha256WithRSAEncryption,RSA,2048,5/9/2025,5/3/2026,359,unknown,
+expinet.net,FALSE,,,,,,,,,,,,_ssl.c:993: The handshake operation timed out
+institutoibest.org.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,institutoibest.org.br,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/18/2025,1/16/2026,90,unknown,
+castingcouch-hd.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+ericafae.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.b-cdn.net,Sectigo Public Server Authentication CA DV R36,sha256WithRSAEncryption,RSA,2048,11/6/2025,11/11/2026,370,unknown,
+correspondentesnaweb.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,correspondentesnaweb.com.br,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/24/2025,1/22/2026,90,unknown,
+tbmbm.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+tubuz.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+gehealthcare.co.uk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.gehealthcare.com,DigiCert Global G2 TLS RSA SHA256 2020 CA1,sha256WithRSAEncryption,RSA,2048,7/29/2025,7/28/2026,364,unknown,
+shervinvip.site,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+imlabs.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,homolog.ead.imlabs.com.br,R13,sha256WithRSAEncryption,RSA,2048,10/13/2025,1/11/2026,90,unknown,
+ifminvestors.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ifminvestors.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/27/2025,1/25/2026,90,unknown,
+nickelodeon.gr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,nickelodeon.gr,R12,sha256WithRSAEncryption,RSA,2048,11/9/2025,2/7/2026,90,unknown,
+it-partner.com,FALSE,,,,,,,,,,,,timed out
+luckyniki.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+gadgetsonline.co.nz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,gadgetsonline.co.nz,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/30/2025,12/29/2025,90,unknown,
+bilingual.ru,FALSE,,,,,,,,,,,,[Errno 11002] getaddrinfo failed
+webxdubai.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,webxdubai.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/14/2025,2/12/2026,90,unknown,
+yogapgpay1.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+fintech.tv,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,fintech.tv,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/26/2025,12/25/2025,90,unknown,
+raovatnailsalon.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,raovatnailsalon.com,R12,sha256WithRSAEncryption,RSA,2048,10/10/2025,1/8/2026,90,unknown,
+pogoskill.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pogoskill.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/26/2025,1/24/2026,90,unknown,
+newmobility.news,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,newmobility.news,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/13/2025,2/11/2026,90,unknown,
+vulgarisation-informatique.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.vulgarisation-informatique.com,R13,sha256WithRSAEncryption,RSA,2048,10/13/2025,1/11/2026,90,unknown,
+wixidns.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,wixidns.com,R13,sha256WithRSAEncryption,RSA,4096,9/24/2025,12/23/2025,90,unknown,
+tambo.pe,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tambo.pe,R12,sha256WithRSAEncryption,RSA,2048,10/11/2025,1/9/2026,90,unknown,
+beatles.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,beatles.com,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,5/25/2025,6/22/2026,393,unknown,
+166-hello.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+landofbeds.co.uk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,landofbeds.co.uk,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/28/2025,1/26/2026,90,unknown,
+damamobilespares.co.ke,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,damamobilespares.co.ke,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/28/2025,12/28/2025,91,unknown,
+cenobitz.pl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cenobitz.pl,R12,sha256WithRSAEncryption,RSA,4096,11/11/2025,2/9/2026,90,unknown,
+topalovic.rs,TRUE,TLSv1.3,TLS_CHACHA20_POLY1305_SHA256,ruzelipolista.org,R12,sha256WithRSAEncryption,RSA,2048,9/27/2025,12/26/2025,90,unknown,
+astronomerswithoutborders.org,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,astronomerswithoutborders.org,R13,sha256WithRSAEncryption,RSA,2048,11/2/2025,1/31/2026,90,unknown,
+6l777.bet,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+5mh3sw.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,5mh3sw.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/19/2025,2/17/2026,90,unknown,
+agrochowski.pl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.agrochowski.pl,Shoper DV TLS G2 R34 CA,sha256WithRSAEncryption,RSA,2048,12/12/2024,12/12/2025,365,unknown,
+chitadelivery.co.il,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,chitadelivery.co.il,R12,sha256WithRSAEncryption,RSA,2048,10/8/2025,1/6/2026,90,unknown,
+fluxys.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,fluxys.com,Gandi RSA Domain Validation Secure Server CA 3,sha384WithRSAEncryption,ECDSA,secp256r1,2/19/2025,3/18/2026,392,unknown,
+allezlestademontois.fr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,allezlestademontois.fr,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/1/2025,1/30/2026,90,unknown,
+ambnew88.co,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ambnew88.co,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/28/2025,12/27/2025,90,unknown,
+bdgin8.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bdgin8.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/3/2025,2/1/2026,90,unknown,
+iprange.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,iprange.net,R13,sha256WithRSAEncryption,RSA,3072,10/25/2025,1/23/2026,90,unknown,
+agrolsklep.pl,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,agrolsklep.pl,ZeroSSL ECC Domain Secure Site CA,ecdsa-with-SHA384,ECDSA,secp256r1,10/19/2025,1/17/2026,90,unknown,
+bikeheroes.at,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bikeheroes.at,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/6/2025,1/4/2026,90,unknown,
+685xjw.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,685xjw.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/16/2025,2/14/2026,90,unknown,
+audiograffiti.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,audiograffiti.com,R12,sha256WithRSAEncryption,RSA,2048,9/26/2025,12/25/2025,90,unknown,
+anjuss.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,anjuss.com.br,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/8/2025,1/6/2026,90,unknown,
+bus.gi,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+boboo77.homes,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,boboo77.homes,E7,ecdsa-with-SHA384,ECDSA,secp256r1,10/4/2025,1/2/2026,90,unknown,
+ck33login.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ck33login.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/21/2025,1/19/2026,90,unknown,
+7893236.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,7893235.com,Amazon RSA 2048 M04,sha256WithRSAEncryption,RSA,2048,11/21/2025,12/20/2026,394,unknown,
+snap.as,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,snap.as,R12,sha256WithRSAEncryption,RSA,2048,10/29/2025,1/27/2026,90,unknown,
+classicbaram.gg,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,classicbaram.gg,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/11/2025,2/9/2026,90,unknown,
+berkahamanah.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,berkahamanah.com,R13,sha256WithRSAEncryption,RSA,4096,11/23/2025,2/21/2026,90,unknown,
+bugio7.tv,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bugio7.tv,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/26/2025,1/24/2026,90,unknown,
+boedjangroup.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,boedjangroup.com,E7,ecdsa-with-SHA384,ECDSA,secp256r1,9/28/2025,12/27/2025,90,unknown,
+guruwaraya.lk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,guruwaraya.lk,WR3,sha256WithRSAEncryption,RSA,2048,10/9/2025,1/7/2026,90,unknown,
+fetimation.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+halo88terbang.pro,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+family-cinema.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,family-cinema.com,R12,sha256WithRSAEncryption,RSA,4096,11/11/2025,2/9/2026,90,unknown,
+bridge1151.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,bridge1151.com,R13,sha256WithRSAEncryption,RSA,2048,9/27/2025,12/26/2025,90,unknown,
+diagnostiekvooru.nl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.diagnostiekvooru.nl,Sectigo RSA Organization Validation Secure Server CA,sha256WithRSAEncryption,RSA,4096,12/16/2024,1/12/2026,392,unknown,
+garasi189.art,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+gamesbet1.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+hotellinx.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,hotellinx.com,R13,sha256WithRSAEncryption,RSA,2048,11/16/2025,2/14/2026,90,unknown,
+ehbina.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.ehbina.com,Certum Domain Validation CA SHA2,sha256WithRSAEncryption,RSA,2048,1/14/2025,1/14/2026,365,unknown,
+fesspa.com.tr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.fesspa.com.tr,RapidSSL TLS RSA CA G1,sha256WithRSAEncryption,RSA,2048,3/11/2025,3/10/2026,364,unknown,
+hakutea.jp,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.hakutea.jp,R12,sha256WithRSAEncryption,RSA,2048,10/14/2025,1/12/2026,90,unknown,
+cocinaconvalentino.com.ar,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cocinaconvalentino.com.ar,R12,sha256WithRSAEncryption,RSA,2048,11/6/2025,2/4/2026,90,unknown,
+maruhigoodslabo.jp,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+idiom-encyclopedia.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.idiom-encyclopedia.com,R12,sha256WithRSAEncryption,RSA,2048,10/4/2025,1/2/2026,90,unknown,
+moemax.rs,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,moemax.rs,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/26/2025,12/25/2025,90,unknown,
+kibun-jojo.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+mtybets.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+emastpa.com.my,TRUE,TLSv1.2,ECDHE-RSA-AES256-SHA384,*.emastpa.com.my,Go Daddy Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,4096,5/20/2025,6/21/2026,397,unknown,
+mircaraudio.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mircaraudio.com,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,11/18/2024,12/9/2025,386,unknown,
+minova.com.ua,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,minova.com.ua,R13,sha256WithRSAEncryption,RSA,2048,10/19/2025,1/17/2026,90,unknown,
+mangaspyfamily.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mangaspyfamily.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/29/2025,12/28/2025,90,unknown,
+manutdfanatics.hu,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.manutdfanatics.hu,R13,sha256WithRSAEncryption,RSA,2048,10/19/2025,1/17/2026,90,unknown,
+monopolitimes.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,monopolitimes.com,R13,sha256WithRSAEncryption,RSA,2048,11/23/2025,2/21/2026,90,unknown,
+isexshop.sk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.isexshop.sk,R13,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+omnisai.org,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,omnisai.org,R12,sha256WithRSAEncryption,RSA,2048,11/14/2025,2/12/2026,90,unknown,
+picellileiloes.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,picellileiloes.com.br,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/26/2025,12/25/2025,90,unknown,
+na55.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,na55.net,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/22/2025,1/20/2026,90,unknown,
+nvision-dz.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mail.nvision-dz.com,R12,sha256WithRSAEncryption,RSA,2048,9/29/2025,12/28/2025,90,unknown,
+polondo.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,polondo.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/2/2025,12/31/2025,90,unknown,
+directwed.co.kr,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.ssrow.com,AlphaSSL CA - SHA256 - G2,sha256WithRSAEncryption,RSA,2048,10/4/2018,10/4/2020,731,unknown,
+p-t-a.shop,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,p-t-a.shop,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/3/2025,1/1/2026,90,unknown,
+nouvellesrencontres60.fr,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,namoro40.com.br,E7,ecdsa-with-SHA384,ECDSA,secp384r1,11/20/2025,2/18/2026,90,unknown,
+pkk.net.pl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pkk.net.pl,R12,sha256WithRSAEncryption,RSA,2048,11/9/2025,2/7/2026,90,unknown,
+portaldelligue.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+liquimolyturkey.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,liquimolyturkey.com,R13,sha256WithRSAEncryption,RSA,2048,9/25/2025,12/24/2025,90,unknown,
+nslsugars.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,nslsugars.com,R12,sha256WithRSAEncryption,RSA,4096,10/24/2025,1/22/2026,90,unknown,
+lda.gop.pk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,lda.gop.pk,R12,sha256WithRSAEncryption,RSA,2048,11/6/2025,2/4/2026,90,unknown,
+pcdpharmafranchiseindia.co.in,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pcdpharmafranchiseindia.co.in,R12,sha256WithRSAEncryption,RSA,2048,11/21/2025,2/19/2026,90,unknown,
+reyfortuna.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+prenetix.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.prenetix.ru,R13,sha256WithRSAEncryption,RSA,2048,9/21/2025,12/20/2025,90,unknown,
+reijou-rankou-club.click,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+onlinerme.com,FALSE,,,,,,,,,,,,timed out
+prbone.link,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,prbone.link,R13,sha256WithRSAEncryption,RSA,4096,10/19/2025,1/17/2026,90,unknown,
+sar288slot.org,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+sc168auto.co,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,sc168auto.co,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/27/2025,1/25/2026,90,unknown,
+narita-aeonmall.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,narita-aeonmall.com,SECOM Passport for Web SR 3.0 CA,sha256WithRSAEncryption,RSA,2048,11/11/2025,12/4/2026,388,unknown,
+skcet.ac.in,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,skcet.ac.in,R13,sha256WithRSAEncryption,RSA,4096,10/29/2025,1/27/2026,90,unknown,
+sprachenlernen24-onlinekurs.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,17min.io,R12,sha256WithRSAEncryption,RSA,2048,10/6/2025,1/4/2026,90,unknown,
+sestaporta.news,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,sestaporta.news,R12,sha256WithRSAEncryption,RSA,2048,11/14/2025,2/12/2026,90,unknown,
+starkl.sk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,starkl.sk,R12,sha256WithRSAEncryption,RSA,2048,11/12/2025,2/10/2026,90,unknown,
+rechargewifi.jp,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,www.rechargewifi.jp,GlobalSign GCC R6 AlphaSSL CA 2023,sha256WithRSAEncryption,RSA,2048,12/3/2024,1/4/2026,397,unknown,
+wilkinsrv.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,wilkinsrv.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/25/2025,1/23/2026,90,unknown,
+thephonem.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,thephonem.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/28/2025,12/27/2025,90,unknown,
+super10.cl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,super10.cl,R13,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+totokingpr.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,totokingpr.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/7/2025,1/5/2026,90,unknown,
+melasnetwork.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,melasnetwork.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/11/2025,2/9/2026,90,unknown,
+zahradnictvi-montano.cz,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.zahradnictvi-montano.cz,ZeroSSL ECC Domain Secure Site CA,ecdsa-with-SHA384,ECDSA,secp384r1,10/30/2025,1/28/2026,90,unknown,
+brwn.loan,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,brwn.loan,Amazon RSA 2048 M01,sha256WithRSAEncryption,RSA,2048,10/24/2025,11/22/2026,394,unknown,
+v999s3.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+valtellinamobile.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,valtellinamobile.it,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/10/2025,1/8/2026,90,unknown,
+tique-internacional.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,tique-internacional.com,ZeroSSL RSA Domain Secure Site CA,sha384WithRSAEncryption,RSA,2048,10/31/2025,1/29/2026,90,unknown,
+thehamptons.in,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,thehamptons.in,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/3/2025,1/1/2026,90,unknown,
+sydansatakunta.fi,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,suurkeuruu.fi,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,2/18/2025,3/19/2026,394,unknown,
+ulasimburada.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ulasimburada.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/10/2025,2/8/2026,90,unknown,
+precisionhawk.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,precisionhawk.com,R13,sha256WithRSAEncryption,RSA,2048,11/11/2025,2/9/2026,90,unknown,
+annazuckerman.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,annazuckerman.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/26/2025,12/25/2025,90,unknown,
+mics-sandbox.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+qrsign.jp,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,qrsign.jp,R13,sha256WithRSAEncryption,RSA,2048,10/3/2025,1/1/2026,90,unknown,
+spx.tw,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,spx.tw,GlobalSign GCC R6 AlphaSSL CA 2023,sha256WithRSAEncryption,RSA,2048,5/26/2025,6/27/2026,397,unknown,
+jungesterne.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+pamelalove.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pamelalove.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/14/2025,1/12/2026,90,unknown,
+thakasino.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+facillite.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.facillite.com,R12,sha256WithRSAEncryption,RSA,2048,11/3/2025,2/1/2026,90,unknown,
+ampir.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.ampir.ru,GlobalSign GCC R3 DV TLS CA 2020,sha256WithRSAEncryption,RSA,2048,8/28/2025,9/29/2026,397,unknown,
+teamsforlinux.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,teamsforlinux.de,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/28/2025,12/27/2025,90,unknown,
+khoaluantotnghiep.net,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,khoaluantotnghiep.net,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/18/2025,2/16/2026,90,unknown,
+resources.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,resources.org,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/2/2025,1/31/2026,90,unknown,
+wheretheladies.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+wovenmonkey.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,wovenmonkey.com,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,12/18/2024,12/20/2025,367,unknown,
+maximumrocknroll.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.maximumrocknroll.com,R13,sha256WithRSAEncryption,RSA,2048,10/25/2025,1/23/2026,90,unknown,
+elyon.com.co,FALSE,,,,,,,,,,,,timed out
+s3u9m.top,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,s3u9m.top,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/5/2025,2/3/2026,90,unknown,
+ogdensd.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ogdensd.org,R13,sha256WithRSAEncryption,RSA,2048,11/14/2025,2/12/2026,90,unknown,
+sunnygyl.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,sunnygyl.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/11/2025,2/9/2026,90,unknown,
+gameplanb.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-SHA384,*.gameplanb.com,Starfield Secure Certificate Authority - G2,sha256WithRSAEncryption,RSA,2048,1/6/2025,2/7/2026,397,unknown,
+eroute.net,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,gb.oxxus.net,gb.oxxus.net,sha256WithRSAEncryption,RSA,2048,10/17/2018,10/17/2019,365,unknown,
+identity.foundation,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,identity.foundation,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/8/2025,1/6/2026,90,unknown,
+evolvingyourman.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,evolvingyourman.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/7/2025,1/5/2026,90,unknown,
+ictd.gov.bd,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.ictd.gov.bd,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,4/24/2025,4/24/2026,365,unknown,
+deichmann-karriere.de,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,deichmann-karriere.de,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/20/2025,1/18/2026,90,unknown,
+mxamro.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-SHA384,mexicanamro.com,Sectigo Public Server Authentication CA DV R36,sha256WithRSAEncryption,RSA,4096,10/3/2025,10/3/2026,365,unknown,
+ggpgc.co.in,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+souvlakiforthesoul.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,souvlakiforthesoul.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/22/2025,2/20/2026,90,unknown,
+cdromance.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cdromance.org,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/4/2025,2/2/2026,90,unknown,
+fontguesser.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+fearthefin.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,anaheimcalling.com,R12,sha256WithRSAEncryption,RSA,2048,11/13/2025,2/11/2026,90,unknown,
+cappelleriabacca.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cappelleriabacca.it,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/3/2025,1/1/2026,90,unknown,
+levantcasino-giris.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,levantcasino-giris.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/19/2025,2/17/2026,90,unknown,
+tupcchile.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.tupcchile.com,R13,sha256WithRSAEncryption,RSA,2048,10/20/2025,1/18/2026,90,unknown,
+seemeta.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,seemeta.com,R13,sha256WithRSAEncryption,RSA,2048,11/1/2025,1/30/2026,90,unknown,
+bizdehesapli.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,bizdehesapli.com,R13,sha256WithRSAEncryption,RSA,4096,11/6/2025,2/4/2026,90,unknown,
+openbazaar.org,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,openbazaar.org,R12,sha256WithRSAEncryption,RSA,2048,9/30/2025,12/29/2025,90,unknown,
+e-oferta.ro,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,e-oferta.ro,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/28/2025,12/27/2025,90,unknown,
+gettoplists.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,gettoplists.com,R12,sha256WithRSAEncryption,RSA,4096,10/24/2025,1/22/2026,90,unknown,
+polskieogloszenia.pl,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,polskieogloszenia.pl,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/18/2025,2/16/2026,90,unknown,
+lmta.lt,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,lmta.lt,GEANT TLS RSA 1,sha256WithRSAEncryption,RSA,2048,4/30/2025,4/30/2026,365,unknown,
+stgeorgesbristol.co.uk,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,stgeorgesbristol.co.uk,Amazon RSA 2048 M02,sha256WithRSAEncryption,RSA,2048,3/13/2025,4/11/2026,394,unknown,
+sxp.nl,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,sxp.nl,R10,sha256WithRSAEncryption,RSA,4096,7/15/2025,10/13/2025,90,unknown,
+yakimachief.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,shop.yakimachief.com,R13,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+devsgestaods.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+hwsuccesssj.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+slivbox.cc,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mail.slivbox.cc,R13,sha256WithRSAEncryption,RSA,2048,11/4/2025,2/2/2026,90,unknown,
+thakkarmatrimony.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+enco.io,FALSE,,,,,,,,,,,,[WinError 10054] An existing connection was forcibly closed by the remote host
+1duke.net,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+mes-favoris.top,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,mes-favoris.top,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/19/2025,1/17/2026,90,unknown,
+smilerday.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,smilerday.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/20/2025,1/18/2026,90,unknown,
+free-porn.live,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+letsbeef.com,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,dev.letsbeef.com,R12,sha256WithRSAEncryption,RSA,2048,9/28/2025,12/27/2025,90,unknown,
+studentchoicecard.co.uk,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,www.studentchoicecard.co.uk,R12,sha256WithRSAEncryption,RSA,3072,10/2/2025,12/31/2025,90,unknown,
+doesitreallywork.org,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,doesitreallywork.org,R13,sha256WithRSAEncryption,RSA,2048,11/10/2025,2/8/2026,90,unknown,
+cig273.vip,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+scsti.org.cn,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.360510.com,SSL.com TLS Issuing RSA CA R1,sha256WithRSAEncryption,RSA,2048,2/7/2025,3/10/2026,396,unknown,
+188bet-casino-vip.com,TRUE,TLSv1.2,ECDHE-ECDSA-AES128-GCM-SHA256,188bet-casino-vip.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/13/2025,2/11/2026,90,unknown,
+itmr-legal.de,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,itmr-legal.de,R12,sha256WithRSAEncryption,RSA,4096,10/18/2025,1/16/2026,90,unknown,
+casino-vulkan.live,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+dicefan.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,dicefan.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/18/2025,2/16/2026,90,unknown,
+dfds.cloud,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+booklink.me,TRUE,TLSv1.2,ECDHE-ECDSA-AES256-GCM-SHA384,booklink.me,ZeroSSL ECC Domain Secure Site CA,ecdsa-with-SHA384,ECDSA,secp256r1,9/4/2025,12/3/2025,90,unknown,
+63748839.com,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+dws.ne.jp,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+tivplserver.com,FALSE,,,,,,,,,,,,timed out
+amt-law.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,amt-law.com,DigiCert EV RSA CA G2,sha256WithRSAEncryption,RSA,2048,2/27/2025,3/18/2026,384,unknown,
+ringnes.no,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+katabat.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,katabat.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/21/2025,1/19/2026,90,unknown,
+akaihost.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,*.mediasters.com,R13,sha256WithRSAEncryption,RSA,2048,11/14/2025,2/12/2026,90,unknown,
+maxamcorp.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.maxamcorp.com,Sectigo RSA Organization Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,5/12/2025,6/6/2026,390,unknown,
+helenaagri.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,helenaagri.com,E7,ecdsa-with-SHA384,ECDSA,secp384r1,10/26/2025,1/24/2026,90,unknown,
+linux-on-laptops.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,linux-on-laptops.com,R12,sha256WithRSAEncryption,RSA,2048,10/3/2025,1/1/2026,90,unknown,
+888starz.red,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+leicestersquaretheatre.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,leicestersquaretheatre.com,R12,sha256WithRSAEncryption,RSA,4096,10/14/2025,1/12/2026,90,unknown,
+diacenter.org,FALSE,,,,,,,,,,,,timed out
+xhentaidoll.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,xhentaidoll.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,11/1/2025,1/30/2026,90,unknown,
+cmia.info,FALSE,,,,,,,,,,,,[WinError 10061] No connection could be made because the target machine actively refused it
+marieclairemaison.com,FALSE,,,,,,,,,,,,[WinError 10054] An existing connection was forcibly closed by the remote host
+ratemyplacement.co.uk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.ratemyplacement.co.uk,R13,sha256WithRSAEncryption,RSA,2048,10/27/2025,1/25/2026,90,unknown,
+ytoglobal.com,FALSE,,,,,,,,,,,,timed out
+m98.bz,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+mercedes-benz.social,FALSE,,,,,,,,,,,,timed out
+liantu.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,*.liantu.com,GlobalSign GCC R6 AlphaSSL CA 2025,sha256WithRSAEncryption,RSA,2048,10/9/2025,11/10/2026,397,unknown,
+cureourhealthy2.com,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,getloanforhealth2.com,R12,sha256WithRSAEncryption,RSA,2048,11/1/2025,1/30/2026,90,unknown,
+wildcatsports.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,imperva.com,GlobalSign Atlas R3 DV TLS CA 2025 Q3,sha256WithRSAEncryption,RSA,2048,9/26/2025,3/25/2026,180,unknown,
+wyssgarten.ch,TRUE,TLSv1.2,ECDHE-RSA-AES256-SHA384,*.wyssgarten.ch,SwissSign RSA TLS DV ICA 2022 - 1,sha256WithRSAEncryption,RSA,8192,9/22/2025,9/22/2026,365,unknown,
+ibi.net.br,TRUE,TLSv1.3,TLS_CHACHA20_POLY1305_SHA256,*.ibi.net.br,R13,sha256WithRSAEncryption,RSA,2048,10/28/2025,1/26/2026,90,unknown,
+coinfi.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,coinfi.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/12/2025,2/10/2026,90,unknown,
+evniu.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,evniu.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/12/2025,2/10/2026,90,unknown,
+newsinsureonlineweb.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,newsinsureonlineweb.com,R13,sha256WithRSAEncryption,RSA,2048,10/26/2025,1/24/2026,90,unknown,
+capitalpolis.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,capitalpolis.ru,R12,sha256WithRSAEncryption,RSA,4096,10/8/2025,1/6/2026,90,unknown,
+damon.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,damon.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,9/26/2025,12/25/2025,90,unknown,
+yenvaz.cn,FALSE,,,,,,,,,,,,[Errno 11001] getaddrinfo failed
+1g3wqa.cn,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+wcwhxt.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,wcwhxt.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/3/2025,2/1/2026,90,unknown,
+intempet.com,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,intempet.com,E8,ecdsa-with-SHA384,ECDSA,secp256r1,10/14/2025,1/12/2026,90,unknown,
+universitytimes.ie,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,universitytimes.ie,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/12/2025,1/10/2026,90,unknown,
+reisetech.io,TRUE,TLSv1.3,TLS_AES_128_GCM_SHA256,reisetech.io,Amazon RSA 2048 M03,sha256WithRSAEncryption,RSA,2048,2/20/2025,3/21/2026,394,unknown,
+ikuteam.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,df00e1aa.sni.cloudflaressl.com,E7,ecdsa-with-SHA384,ECDSA,secp256r1,11/9/2025,2/7/2026,90,unknown,
+vpsttt.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,vpsttt.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/6/2025,2/4/2026,90,unknown,
+arc2020.eu,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.arc2020.eu,E7,ecdsa-with-SHA384,ECDSA,secp256r1,11/2/2025,1/31/2026,90,unknown,
+framecafe.co.uk,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,framecafe.co.uk,R12,sha256WithRSAEncryption,RSA,2048,11/16/2025,2/14/2026,90,unknown,
+starcoe.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.starcoe.com,GlobalSign RSA OV SSL CA 2018,sha256WithRSAEncryption,RSA,2048,2/20/2025,3/24/2026,397,unknown,
+semyana.club,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+96phn.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,96phn.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,10/6/2025,1/4/2026,90,unknown,
+ssinet.com.br,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ssinet.com.br,R12,sha256WithRSAEncryption,RSA,2048,10/8/2025,1/6/2026,90,unknown,
+amboanthos.nl,TRUE,TLSv1.2,ECDHE-RSA-AES128-GCM-SHA256,*.yellow.msgc.ac,Sectigo RSA Domain Validation Secure Server CA,sha256WithRSAEncryption,RSA,2048,9/11/2024,10/5/2025,389,unknown,
+nasljerseys.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.nasljerseys.com,R12,sha256WithRSAEncryption,RSA,2048,9/29/2025,12/28/2025,90,unknown,
+meganimport.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,meganimport.com,WE1,ecdsa-with-SHA256,ECDSA,secp256r1,11/1/2025,1/30/2026,90,unknown,
+ersho-distribution.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,ersho-distribution.com,R12,sha256WithRSAEncryption,RSA,2048,10/21/2025,1/19/2026,90,unknown,
+cityofdoral.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,cityofdoral.com,R12,sha256WithRSAEncryption,RSA,2048,10/7/2025,1/5/2026,90,unknown,
+dangelomotori.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,*.dangelomotori.it,R12,sha256WithRSAEncryption,RSA,2048,11/19/2025,2/17/2026,90,unknown,
+sister-neia.com,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+paragould.k12.ar.us,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,paragould.k12.ar.us,R12,sha256WithRSAEncryption,RSA,2048,9/21/2025,12/20/2025,90,unknown,
+ug7772.cloud,FALSE,,,,,,,,,,,,[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)
+pyropartenope.it,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pyropartenope.it,R13,sha256WithRSAEncryption,RSA,2048,10/17/2025,1/15/2026,90,unknown,
+pgdservis.ru,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,pgdservis.ru,R13,sha256WithRSAEncryption,RSA,2048,10/13/2025,1/11/2026,90,unknown,
+njfjzmx.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,zhanqunyi.tiandicms.com,R12,sha256WithRSAEncryption,RSA,2048,11/3/2025,2/1/2026,90,unknown,
+jsthzdh.com,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,zhanqunyi.tiandicms.com,R12,sha256WithRSAEncryption,RSA,2048,11/3/2025,2/1/2026,90,unknown,
+goodwill.com.tw,TRUE,TLSv1.2,ECDHE-RSA-AES256-GCM-SHA384,gwinstek.com,R12,sha256WithRSAEncryption,RSA,2048,10/26/2025,1/24/2026,90,unknown,
+kawaguchiauto.jp,TRUE,TLSv1.3,TLS_AES_256_GCM_SHA384,www.kawaguchiauto.jp,R12,sha256WithRSAEncryption,RSA,2048,11/6/2025,2/4/2026,90,unknown,
+hangzhou2022.cn,FALSE,,,,,,,,,,,,timed out
+eurocreditreview.com,FALSE,,,,,,,,,,,,_ssl.c:993: The handshake operation timed out
+xfin.me,FALSE,,,,,,,,,,,,timed out
+solartrackingsystem.net,FALSE,,,,,,,,,,,,timed out
+ddnscloud.eu,FALSE,,,,,,,,,,,,timed out
+chockopongway.org,FALSE,,,,,,,,,,,,timed out
